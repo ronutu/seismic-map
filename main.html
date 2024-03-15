@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Maping</title>
+    <style>
+        #map {
+            height: 100%;
+            width: 66.666%;
+            float: right;
+            position: relative;
+        }
+        #title-container {
+            height: 100%;
+            width: 100%;
+        }
+        #other-container {
+            height: 100%;
+            width: 33.333%;
+            float: left;
+            background-color: rgb(217, 243, 228);
+            text-align: left;
+        }
+        #construction-date {
+            margin-top: 10px;
+        }
+        #title {
+            padding: 15px;
+            color: rgb(0, 0, 0);
+            margin: -3px 0 0 15px;
+        }
+        #info-box{
+            padding: 15px;
+            margin: 10px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        html, body {
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+
+    </style>
+</head>
+<body>
+<div id="map">
+    <div id="title-container"></div>
+    <div id="construction-date"></div>
+</div>
+
+<div id="other-container">
+
+    <h1 id="title">Maping</h1>
+    <div id="info-box"></div>
+
+</div>
+<script src="main.js"></script>
+</body>
+</html>

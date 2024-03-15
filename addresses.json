@@ -1,0 +1,4097 @@
+[
+    {
+        "address": "Strada MARIA ROSETTI 10 Bucuresti",
+        "lat": 44.4419644,
+        "lng": 26.1070554,
+        "yearOfConstruction": "1946",
+        "numberOfApartments": "34",
+        "yearOfExpertise": "2023",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Bulevardul REGINA ELISABETA (fost Bulevardul MIHAIL KOGALNICEANU) 25 (5) Bucuresti",
+        "lat": 44.4344004,
+        "lng": 26.085166,
+        "yearOfConstruction": "1934",
+        "numberOfApartments": "40",
+        "yearOfExpertise": "1997",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "PIATA ROMANA 1 Bucuresti",
+        "lat": 44.4467528,
+        "lng": 26.0967458,
+        "yearOfConstruction": "1907",
+        "numberOfApartments": "4",
+        "yearOfExpertise": "2023",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada 11 IUNIE 15 Bucuresti",
+        "lat": 44.42322799999999,
+        "lng": 26.096005,
+        "yearOfConstruction": "1950",
+        "numberOfApartments": "8",
+        "yearOfExpertise": "1997",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada 11 IUNIE 18 Bucuresti",
+        "lat": 44.42267700000001,
+        "lng": 26.0958739,
+        "yearOfConstruction": "1925",
+        "numberOfApartments": "8",
+        "yearOfExpertise": "1995",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada 11 IUNIE 67 Bucuresti",
+        "lat": 44.4199285,
+        "lng": 26.095482,
+        "yearOfConstruction": "1890",
+        "numberOfApartments": "18",
+        "yearOfExpertise": "1993",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada ACADEMIEI 4-6 Bucuresti",
+        "lat": 44.434355,
+        "lng": 26.099773,
+        "yearOfConstruction": "1960",
+        "numberOfApartments": "74",
+        "yearOfExpertise": "1994",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada AGRICULTORI 43 Bucuresti",
+        "lat": 44.4380063,
+        "lng": 26.132175,
+        "yearOfConstruction": "1900",
+        "numberOfApartments": "8",
+        "yearOfExpertise": "1997",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada AGRICULTORI 74 (corp A) Bucuresti",
+        "lat": 44.4356303,
+        "lng": 26.1326003,
+        "yearOfConstruction": "1945",
+        "numberOfApartments": "4",
+        "yearOfExpertise": "1993",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada AGRICULTORI 75 Bucuresti",
+        "lat": 44.4359218,
+        "lng": 26.1327121,
+        "yearOfConstruction": "1925",
+        "numberOfApartments": "7",
+        "yearOfExpertise": "1997",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada AGRICULTORI 76 Bucuresti",
+        "lat": 44.4354895,
+        "lng": 26.1326214,
+        "yearOfConstruction": "1934",
+        "numberOfApartments": "4",
+        "yearOfExpertise": "1997",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Bulevardul ALEXANDRU AVERESCU 26-28 Bucuresti",
+        "lat": 44.4267674,
+        "lng": 26.1025384,
+        "yearOfConstruction": "1937",
+        "numberOfApartments": "13",
+        "yearOfExpertise": "1996",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada ALEXANDRU DEPARATEANU 19 Bucuresti",
+        "lat": 44.4500445,
+        "lng": 26.0734656,
+        "yearOfConstruction": "1925",
+        "numberOfApartments": "3",
+        "yearOfExpertise": "1997",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada ALEXANDRU DEPARATEANU 22 Bucuresti",
+        "lat": 44.4499084,
+        "lng": 26.0736758,
+        "yearOfConstruction": "1900",
+        "numberOfApartments": "4",
+        "yearOfExpertise": "1997",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada ALEXANDRU DONICI 30 Bucuresti",
+        "lat": 44.443302,
+        "lng": 26.109015,
+        "yearOfConstruction": "1938",
+        "numberOfApartments": "25",
+        "yearOfExpertise": "2000",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada ALEXANDRU DONICI 6 Bucuresti",
+        "lat": 44.4417169,
+        "lng": 26.1106562,
+        "yearOfConstruction": "1934",
+        "numberOfApartments": "4",
+        "yearOfExpertise": "1993",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Bulevardul ALEXANDRU IOAN CUZA 10 Bucuresti",
+        "lat": 44.4490708,
+        "lng": 26.08185,
+        "yearOfConstruction": "1936",
+        "numberOfApartments": "62",
+        "yearOfExpertise": "1998",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Bulevardul ALEXANDRU IOAN CUZA 80 Bucuresti",
+        "lat": 44.4514127,
+        "lng": 26.0747951,
+        "yearOfConstruction": "1946",
+        "numberOfApartments": "8",
+        "yearOfExpertise": "1995",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Bulevardul ALEXANDRU IOAN CUZA 97 Bucuresti",
+        "lat": 44.4513866,
+        "lng": 26.0736578,
+        "yearOfConstruction": "1940",
+        "numberOfApartments": "2",
+        "yearOfExpertise": "1993",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Bulevardul ALEXANDRU OBREGIA 30 (bloc R4) Bucuresti",
+        "lat": 44.3805488,
+        "lng": 26.1160529,
+        "yearOfConstruction": "1969",
+        "numberOfApartments": "89",
+        "yearOfExpertise": "2000",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Bulevardul ALEXANDRU OBREGIA 32 (bloc R5) Bucuresti",
+        "lat": 44.380048,
+        "lng": 26.1161522,
+        "yearOfConstruction": "1969",
+        "numberOfApartments": "88",
+        "yearOfExpertise": "2000",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Bulevardul ALEXANDRU OBREGIA 34 (bloc R6) Bucuresti",
+        "lat": 44.3795994,
+        "lng": 26.1161024,
+        "yearOfConstruction": "1969",
+        "numberOfApartments": "88",
+        "yearOfExpertise": "2000",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Bulevardul ALEXANDRU OBREGIA 40 (bloc R8) Bucuresti",
+        "lat": 44.3786741,
+        "lng": 26.117252,
+        "yearOfConstruction": "1969",
+        "numberOfApartments": "88",
+        "yearOfExpertise": "2000",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada ANASTASIE SIMU 6 Bucuresti",
+        "lat": 44.44204389999999,
+        "lng": 26.0982723,
+        "yearOfConstruction": "1935",
+        "numberOfApartments": "32",
+        "yearOfExpertise": "2016",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada ANGHEL SALIGNY 6 Bucuresti",
+        "lat": 44.434047,
+        "lng": 26.093865,
+        "yearOfConstruction": "1935",
+        "numberOfApartments": "32",
+        "yearOfExpertise": "1993;1999",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada ARCULUI 26 Bucuresti",
+        "lat": 44.4385039,
+        "lng": 26.1115799,
+        "yearOfConstruction": "1935",
+        "numberOfApartments": "12",
+        "yearOfExpertise": "2014",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada ARDELENI 16 Bucuresti",
+        "lat": 44.4466349,
+        "lng": 26.1196216,
+        "yearOfConstruction": "1940",
+        "numberOfApartments": "6",
+        "yearOfExpertise": "2016",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada ARISTIDE PASCAL 14 Bucuresti",
+        "lat": 44.4207537,
+        "lng": 26.1294793,
+        "yearOfConstruction": "1920",
+        "numberOfApartments": "3",
+        "yearOfExpertise": "1993",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada ARMENEASCA 12 Bucuresti",
+        "lat": 44.4375418,
+        "lng": 26.1113481,
+        "yearOfConstruction": "1935",
+        "numberOfApartments": "5",
+        "yearOfExpertise": "1993",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada AUREL VLAICU 39 Bucuresti",
+        "lat": 44.4460114,
+        "lng": 26.1060964,
+        "yearOfConstruction": "1950",
+        "numberOfApartments": "36",
+        "yearOfExpertise": "1993",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada AUSTRULUI 14 Bucuresti",
+        "lat": 44.4377511,
+        "lng": 26.1224587,
+        "yearOfConstruction": "1920",
+        "numberOfApartments": "5",
+        "yearOfExpertise": "1997",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada BALCESTI (BOIER HOSTEL BUCHAREST S.R.L.) 9 (corp A) Bucuresti",
+        "lat": 44.4311244,
+        "lng": 26.1077699,
+        "yearOfConstruction": "1917",
+        "numberOfApartments": "0",
+        "yearOfExpertise": "2016",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada BALTAGULUI 13-15 Bucuresti",
+        "lat": 44.422111,
+        "lng": 26.0610189,
+        "yearOfConstruction": "1960",
+        "numberOfApartments": "24",
+        "yearOfExpertise": "2011",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada BANULUI 3A Bucuresti",
+        "lat": 44.4430893,
+        "lng": 26.0917396,
+        "yearOfConstruction": "1936",
+        "numberOfApartments": "30",
+        "yearOfExpertise": "1998",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada BARBU ISCOVESCU 25 Bucuresti",
+        "lat": 44.4664194,
+        "lng": 26.0888464,
+        "yearOfConstruction": "1935",
+        "numberOfApartments": "8",
+        "yearOfExpertise": "1993",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Bulevardul BASARABIA 28 (bloc 31) Bucuresti",
+        "lat": 44.4318979,
+        "lng": 26.1428257,
+        "yearOfConstruction": "1962-1963",
+        "numberOfApartments": "100",
+        "yearOfExpertise": "2010",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada BATISTE 35 Bucuresti",
+        "lat": 44.43982,
+        "lng": 26.1073069,
+        "yearOfConstruction": "1946",
+        "numberOfApartments": "32",
+        "yearOfExpertise": "2013",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada BENJAMIN FRANKLIN 9 Bucuresti",
+        "lat": 44.4416527,
+        "lng": 26.0984577,
+        "yearOfConstruction": "1920",
+        "numberOfApartments": "12",
+        "yearOfExpertise": "1998",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada BIBESCU VODA 18-20 (corp A+B+C) Bucuresti",
+        "lat": 44.4254646,
+        "lng": 26.101708,
+        "yearOfConstruction": "1935",
+        "numberOfApartments": "41",
+        "yearOfExpertise": "1993",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada BIBESCU VODA 24 (corp B) Bucuresti",
+        "lat": 44.4249441,
+        "lng": 26.1027841,
+        "yearOfConstruction": "1896",
+        "numberOfApartments": "2",
+        "yearOfExpertise": "2018",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Intrarea BISERICA ALBA 3 Bucuresti",
+        "lat": 44.442589,
+        "lng": 26.0953161,
+        "yearOfConstruction": "1936",
+        "numberOfApartments": "5",
+        "yearOfExpertise": "1997",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada BISERICA AMZEI 27 Bucuresti",
+        "lat": 44.4457672,
+        "lng": 26.0961023,
+        "yearOfConstruction": "1920",
+        "numberOfApartments": "24",
+        "yearOfExpertise": "1998",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada BISERICA AMZEI (colT cu Calea VICTORIEI) 2-4 (136) Bucuresti",
+        "lat": 44.4304243,
+        "lng": 26.0970511,
+        "yearOfConstruction": "1958",
+        "numberOfApartments": "0",
+        "yearOfExpertise": "2000",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Calea CALARASILOR 124 (corp A+B) Bucuresti",
+        "lat": 44.4328668,
+        "lng": 26.1204525,
+        "yearOfConstruction": "1910",
+        "numberOfApartments": "4",
+        "yearOfExpertise": "1993",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Calea CALARASILOR 39 (corp A) Bucuresti",
+        "lat": 44.4329325,
+        "lng": 26.113786,
+        "yearOfConstruction": "1930",
+        "numberOfApartments": "20",
+        "yearOfExpertise": "1998",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Calea CALARASILOR 317 Bucuresti",
+        "lat": 44.4319049,
+        "lng": 26.1363021,
+        "yearOfConstruction": "1930",
+        "numberOfApartments": "3",
+        "yearOfExpertise": "2010",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada CAMINULUI 22-24 Bucuresti",
+        "lat": 44.447228,
+        "lng": 26.1389518,
+        "yearOfConstruction": "1932",
+        "numberOfApartments": "64",
+        "yearOfExpertise": "1997",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada CAMPIA LIBERTATII 6 (bloc PM52; scara A+B+C+D) Bucuresti",
+        "lat": 44.4304675,
+        "lng": 26.1464308,
+        "yearOfConstruction": "1979",
+        "numberOfApartments": "208",
+        "yearOfExpertise": "2013",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada CAMPIA LIBERTATII 31 (bloc 6A; tronson I+II) Bucuresti",
+        "lat": 44.4288217,
+        "lng": 26.1481884,
+        "yearOfConstruction": "1963",
+        "numberOfApartments": "119",
+        "yearOfExpertise": "2013",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada CAMPIA LIBERTATII 40 Bucuresti",
+        "lat": 44.429365,
+        "lng": 26.1450989,
+        "yearOfConstruction": "1962",
+        "numberOfApartments": "120",
+        "yearOfExpertise": "2001",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Bulevardul CAROL I 28 Bucuresti",
+        "lat": 44.4359216,
+        "lng": 26.1051459,
+        "yearOfConstruction": "1932",
+        "numberOfApartments": "10",
+        "yearOfExpertise": "2017",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Bulevardul CAROL I 48 Bucuresti",
+        "lat": 44.4369771,
+        "lng": 26.1114305,
+        "yearOfConstruction": "1900",
+        "numberOfApartments": "5",
+        "yearOfExpertise": "1993",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Bulevardul CAROL I 12 Bucuresti",
+        "lat": 44.4359723,
+        "lng": 26.1056782,
+        "yearOfConstruction": "1924",
+        "numberOfApartments": "0",
+        "yearOfExpertise": "2018",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada CEZAR BOLLIAC 11C Bucuresti",
+        "lat": 44.43020449999999,
+        "lng": 26.1273293,
+        "yearOfConstruction": "1930",
+        "numberOfApartments": "8",
+        "yearOfExpertise": "1993",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada CIPRIAN PORUMBESCU 4 Bucuresti",
+        "lat": 44.4518876,
+        "lng": 26.0943352,
+        "yearOfConstruction": "1935",
+        "numberOfApartments": "3",
+        "yearOfExpertise": "1993",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada CIPRIAN PORUMBESCU 8 Bucuresti",
+        "lat": 44.452203,
+        "lng": 26.094379,
+        "yearOfConstruction": "1934",
+        "numberOfApartments": "4",
+        "yearOfExpertise": "1993",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada CIPRIAN PORUMBESCU 10 Bucuresti",
+        "lat": 44.4523237,
+        "lng": 26.0945532,
+        "yearOfConstruction": "1934",
+        "numberOfApartments": "3",
+        "yearOfExpertise": "2018",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada CIRESULUI 29 Bucuresti",
+        "lat": 44.4650008,
+        "lng": 26.1686739,
+        "yearOfConstruction": "1918",
+        "numberOfApartments": "4",
+        "yearOfExpertise": "1997",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada CLUCERUL UDRICANI 12bis Bucuresti",
+        "lat": 44.4292121,
+        "lng": 26.1089257,
+        "yearOfConstruction": "1936",
+        "numberOfApartments": "4",
+        "yearOfExpertise": "2010",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Soseaua COLENTINA 5 (bloc R27) Bucuresti",
+        "lat": 44.4531411,
+        "lng": 26.1264612,
+        "yearOfConstruction": "1969",
+        "numberOfApartments": "88",
+        "yearOfExpertise": "2000",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Soseaua COLENTINA 7 (bloc OD40) Bucuresti",
+        "lat": 44.4533277,
+        "lng": 26.1268726,
+        "yearOfConstruction": "1968",
+        "numberOfApartments": "44",
+        "yearOfExpertise": "2000",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Soseaua COLENTINA 9 (bloc OD56) Bucuresti",
+        "lat": 44.4536962,
+        "lng": 26.126396,
+        "yearOfConstruction": "1968",
+        "numberOfApartments": "44",
+        "yearOfExpertise": "2000",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Soseaua COLENTINA 11 (bloc R26) Bucuresti",
+        "lat": 44.4537292,
+        "lng": 26.1269224,
+        "yearOfConstruction": "1969",
+        "numberOfApartments": "88",
+        "yearOfExpertise": "1993;2000",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Soseaua COLENTINA 21 (bloc R24) Bucuresti",
+        "lat": 44.4550491,
+        "lng": 26.12784,
+        "yearOfConstruction": "1969",
+        "numberOfApartments": "88",
+        "yearOfExpertise": "2000",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Soseaua COLENTINA 31 (bloc R48) Bucuresti",
+        "lat": 44.4577488,
+        "lng": 26.1296546,
+        "yearOfConstruction": "1969",
+        "numberOfApartments": "88",
+        "yearOfExpertise": "2000",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Soseaua COLENTINA 33 (bloc OD42) Bucuresti",
+        "lat": 44.4579693,
+        "lng": 26.1301247,
+        "yearOfConstruction": "1970",
+        "numberOfApartments": "44",
+        "yearOfExpertise": "2000",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada CONCORDIEI 7 Bucuresti",
+        "lat": 44.4210123,
+        "lng": 26.1011612,
+        "yearOfConstruction": "1935",
+        "numberOfApartments": "5",
+        "yearOfExpertise": "1997",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada CONSTANTIN BALESCU 22 Bucuresti",
+        "lat": 44.4663888,
+        "lng": 26.0912671,
+        "yearOfConstruction": "1957",
+        "numberOfApartments": "16",
+        "yearOfExpertise": "1993",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada CONSTANTIN DISESCU 22 Bucuresti",
+        "lat": 44.4500619,
+        "lng": 26.0760342,
+        "yearOfConstruction": "1930",
+        "numberOfApartments": "4",
+        "yearOfExpertise": "1997",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada CONSTANTIN ESARHU 3 Bucuresti",
+        "lat": 44.4418448,
+        "lng": 26.097465,
+        "yearOfConstruction": "1924",
+        "numberOfApartments": "10",
+        "yearOfExpertise": "1997",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada CONSTANTIN NACU 4 Bucuresti",
+        "lat": 44.4376924,
+        "lng": 26.1083539,
+        "yearOfConstruction": "1934",
+        "numberOfApartments": "20",
+        "yearOfExpertise": "1997",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada CONSTANTIN NACU 7 Bucuresti",
+        "lat": 44.437413,
+        "lng": 26.10808,
+        "yearOfConstruction": "1937",
+        "numberOfApartments": "25",
+        "yearOfExpertise": "1996",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada CONSTANTIN NACU 8 Bucuresti",
+        "lat": 44.4381833,
+        "lng": 26.1081219,
+        "yearOfConstruction": "1933",
+        "numberOfApartments": "9",
+        "yearOfExpertise": "2004",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada CONSTANTIN SANDU ALDEA 65 Bucuresti",
+        "lat": 44.4690833,
+        "lng": 26.0683567,
+        "yearOfConstruction": "1938",
+        "numberOfApartments": "7",
+        "yearOfExpertise": "1995",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada CORBENI 37 Bucuresti",
+        "lat": 44.4396154,
+        "lng": 26.1147585,
+        "yearOfConstruction": "1934",
+        "numberOfApartments": "9",
+        "yearOfExpertise": "1997",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Bulevardul CORNELIU COPOSU 1 (corp A) Bucuresti",
+        "lat": 44.4292244,
+        "lng": 26.1043482,
+        "yearOfConstruction": "1928",
+        "numberOfApartments": "20",
+        "yearOfExpertise": "2014",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Bulevardul CORNELIU COPOSU 1 (corp C) Bucuresti",
+        "lat": 44.4292244,
+        "lng": 26.1043482,
+        "yearOfConstruction": "1928",
+        "numberOfApartments": "20",
+        "yearOfExpertise": "2014",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Soseaua COTROCENI 32 (corp B) Bucuresti",
+        "lat": 44.4368714,
+        "lng": 26.0655543,
+        "yearOfConstruction": "1936 - 1937",
+        "numberOfApartments": "-",
+        "yearOfExpertise": "2017",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada COVACI (BAZZAR LOUNGE &amp; CLUB) 10 Bucuresti",
+        "lat": 44.4303035,
+        "lng": 26.1027002,
+        "yearOfConstruction": "1890",
+        "numberOfApartments": "14",
+        "yearOfExpertise": "2016",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada COVACI (S.C. GALERIA NOI S.R.L. filiala CRAII DE CURTE VECHE) 14 Bucuresti",
+        "lat": 44.4301186,
+        "lng": 26.1013261,
+        "yearOfConstruction": "1940",
+        "numberOfApartments": "5",
+        "yearOfExpertise": "2016",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada D. I. MENDELEEV 19 Bucuresti",
+        "lat": 44.4442019,
+        "lng": 26.0963937,
+        "yearOfConstruction": "1939",
+        "numberOfApartments": "10",
+        "yearOfExpertise": "1997",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada D. I. MENDELEEV 37 Bucuresti",
+        "lat": 44.4459195,
+        "lng": 26.0962183,
+        "yearOfConstruction": "1930",
+        "numberOfApartments": "18",
+        "yearOfExpertise": "1997",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada D. I. MENDELEEV (fosta Bulevardul NICOLAE BALCEASCU) 39 (39) Bucuresti",
+        "lat": 44.4402364,
+        "lng": 26.1003937,
+        "yearOfConstruction": "1938",
+        "numberOfApartments": "20",
+        "yearOfExpertise": "1999",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Bulevardul DACIA 33 Bucuresti",
+        "lat": 44.4470061,
+        "lng": 26.0957901,
+        "yearOfConstruction": "1929",
+        "numberOfApartments": "14",
+        "yearOfExpertise": "1995",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Bulevardul DACIA 47 Bucuresti",
+        "lat": 44.4468894,
+        "lng": 26.1004504,
+        "yearOfConstruction": "1936",
+        "numberOfApartments": "0",
+        "yearOfExpertise": "2000",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Bulevardul DACIA 49 (fost 5) Bucuresti",
+        "lat": 44.4468398,
+        "lng": 26.1007027,
+        "yearOfConstruction": "1948",
+        "numberOfApartments": "24",
+        "yearOfExpertise": "1997",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Bulevardul DACIA 88 (corp A) Bucuresti",
+        "lat": 44.4456792,
+        "lng": 26.1091454,
+        "yearOfConstruction": "1969",
+        "numberOfApartments": "36 (corp A+B)",
+        "yearOfExpertise": "2000",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Bulevardul DACIA 109 Bucuresti",
+        "lat": 44.4458778,
+        "lng": 26.1100305,
+        "yearOfConstruction": "1929",
+        "numberOfApartments": "7",
+        "yearOfExpertise": "1997",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Bulevardul DACIA 171 (fost 141) Bucuresti",
+        "lat": 44.4440923,
+        "lng": 26.1182245,
+        "yearOfConstruction": "1934",
+        "numberOfApartments": "6",
+        "yearOfExpertise": "1993",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Bulevardul DACIA 173 (fost 143) Bucuresti",
+        "lat": 44.4440923,
+        "lng": 26.1182245,
+        "yearOfConstruction": "1933",
+        "numberOfApartments": "11",
+        "yearOfExpertise": "1993",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Bulevardul DACIA (colT cu Strada MIHAI EMINESCU) 28 (8) Bucuresti",
+        "lat": 44.4267674,
+        "lng": 26.1025384,
+        "yearOfConstruction": "1921",
+        "numberOfApartments": "0",
+        "yearOfExpertise": "1998",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Intrarea DACILOR 4 Bucuresti",
+        "lat": 44.4464908,
+        "lng": 26.1011958,
+        "yearOfConstruction": "1938",
+        "numberOfApartments": "12",
+        "yearOfExpertise": "1998",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada DAVID PRAPORGESCU 11 Bucuresti",
+        "lat": 44.439549,
+        "lng": 26.1039407,
+        "yearOfConstruction": "1922",
+        "numberOfApartments": "7",
+        "yearOfExpertise": "1993",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada DESPOT VODA 7 (corp A) Bucuresti",
+        "lat": 44.4492763,
+        "lng": 26.1157921,
+        "yearOfConstruction": "1923",
+        "numberOfApartments": "3",
+        "yearOfExpertise": "2015",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada DIMINETII 1 Bucuresti",
+        "lat": 44.4352303,
+        "lng": 26.1149069,
+        "yearOfConstruction": "1935",
+        "numberOfApartments": "4",
+        "yearOfExpertise": "2008",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Bulevardul DIMITRIE CANTEMIR 13A Bucuresti",
+        "lat": 44.4204422,
+        "lng": 26.1047925,
+        "yearOfConstruction": "1932",
+        "numberOfApartments": "11",
+        "yearOfExpertise": "1997",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Bulevardul DIMITRIE CANTEMIR 15 (bloc 9) Bucuresti",
+        "lat": 44.4206644,
+        "lng": 26.1051245,
+        "yearOfConstruction": "1964",
+        "numberOfApartments": "226",
+        "yearOfExpertise": "2014",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Bulevardul DIMITRIE CANTEMIR 15A Bucuresti",
+        "lat": 44.4201477,
+        "lng": 26.1044609,
+        "yearOfConstruction": "1934",
+        "numberOfApartments": "5",
+        "yearOfExpertise": "1995",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada DIMITRIE ONCIUL 16A Bucuresti",
+        "lat": 44.4411091,
+        "lng": 26.1201087,
+        "yearOfConstruction": "1934",
+        "numberOfApartments": "5",
+        "yearOfExpertise": "2007",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada DIMITRIE ONCIUL 29A Bucuresti",
+        "lat": 44.4416368,
+        "lng": 26.119947,
+        "yearOfConstruction": "1935",
+        "numberOfApartments": "4",
+        "yearOfExpertise": "2014",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Bulevardul DINICU GOLESCU 23-25 (bloc B; corp A+B) Bucuresti",
+        "lat": 44.4443308,
+        "lng": 26.075656,
+        "yearOfConstruction": "1960",
+        "numberOfApartments": "352",
+        "yearOfExpertise": "2001",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Bulevardul DINICU GOLESCU 7 Bucuresti",
+        "lat": 44.4418622,
+        "lng": 26.0796896,
+        "yearOfConstruction": "1933",
+        "numberOfApartments": "18",
+        "yearOfExpertise": "1997",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada DIONISIE LUPU 35 Bucuresti",
+        "lat": 44.44182900000001,
+        "lng": 26.1019888,
+        "yearOfConstruction": "1890",
+        "numberOfApartments": "4",
+        "yearOfExpertise": "1993",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Calea DOROBANTILOR 10 Bucuresti",
+        "lat": 44.447277,
+        "lng": 26.0995903,
+        "yearOfConstruction": "1937",
+        "numberOfApartments": "36",
+        "yearOfExpertise": "1994",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Calea DOROBANTILOR 36-40 (bloc 1; ZODIAC) Bucuresti",
+        "lat": 44.4493363,
+        "lng": 26.1002671,
+        "yearOfConstruction": "1943",
+        "numberOfApartments": "0",
+        "yearOfExpertise": "2012",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Calea DOROBANTILOR 49 Bucuresti",
+        "lat": 44.4494553,
+        "lng": 26.0990736,
+        "yearOfConstruction": "1934",
+        "numberOfApartments": "7",
+        "yearOfExpertise": "1996",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Calea DOROBANTILOR 73 Bucuresti",
+        "lat": 44.4511692,
+        "lng": 26.098702,
+        "yearOfConstruction": "1936",
+        "numberOfApartments": "10",
+        "yearOfExpertise": "1996",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada DROBETA 1 Bucuresti",
+        "lat": 44.4470277,
+        "lng": 26.1071274,
+        "yearOfConstruction": "1936",
+        "numberOfApartments": "16",
+        "yearOfExpertise": "1997",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada DROBETA 7 Bucuresti",
+        "lat": 44.4466628,
+        "lng": 26.1067907,
+        "yearOfConstruction": "1939",
+        "numberOfApartments": "26",
+        "yearOfExpertise": "1997",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Calea DUDESTI 111 Bucuresti",
+        "lat": 44.42391130000001,
+        "lng": 26.1254587,
+        "yearOfConstruction": "1947",
+        "numberOfApartments": "9",
+        "yearOfExpertise": "1997",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada DUMBRAVA ROSIE 22 Bucuresti",
+        "lat": 44.4454068,
+        "lng": 26.1078376,
+        "yearOfConstruction": "1930",
+        "numberOfApartments": "7",
+        "yearOfExpertise": "1993",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada DUMBRAVA ROSIE 24 Bucuresti",
+        "lat": 44.44550659999999,
+        "lng": 26.108117,
+        "yearOfConstruction": "1934",
+        "numberOfApartments": "8",
+        "yearOfExpertise": "1993",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada EDGAR QUINET 3 Bucuresti",
+        "lat": 44.4355336,
+        "lng": 26.0988092,
+        "yearOfConstruction": "1930",
+        "numberOfApartments": "30",
+        "yearOfExpertise": "1998",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada EDGAR QUINET 5 Bucuresti",
+        "lat": 44.43553499999999,
+        "lng": 26.098973,
+        "yearOfConstruction": "1939",
+        "numberOfApartments": "20",
+        "yearOfExpertise": "1998",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada ELENA 2 (bloc OD7C) Bucuresti",
+        "lat": 44.4577634,
+        "lng": 26.1314845,
+        "yearOfConstruction": "1968",
+        "numberOfApartments": "44",
+        "yearOfExpertise": "2000",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada ELENA 4 (bloc OD7B) Bucuresti",
+        "lat": 44.4574073,
+        "lng": 26.1312875,
+        "yearOfConstruction": "1967",
+        "numberOfApartments": "44",
+        "yearOfExpertise": "2000",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada EPISCOPIEI 5 Bucuresti",
+        "lat": 44.4419593,
+        "lng": 26.0969644,
+        "yearOfConstruction": "1936",
+        "numberOfApartments": "17",
+        "yearOfExpertise": "2016",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada EPISCOPIEI 6 Bucuresti",
+        "lat": 44.4418588,
+        "lng": 26.0971454,
+        "yearOfConstruction": "1924",
+        "numberOfApartments": "20",
+        "yearOfExpertise": "1998",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada EPISCOPUL RADU 42 (corp A+B+C) Bucuresti",
+        "lat": 44.4468565,
+        "lng": 26.1206255,
+        "yearOfConstruction": "1937",
+        "numberOfApartments": "4",
+        "yearOfExpertise": "1997",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada FAGARAS 16 Bucuresti",
+        "lat": 44.44022620000001,
+        "lng": 26.0778802,
+        "yearOfConstruction": "1940",
+        "numberOfApartments": "7",
+        "yearOfExpertise": "1997",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Bulevardul FERDINAND I 51 (corp A) Bucuresti",
+        "lat": 44.441233,
+        "lng": 26.1231627,
+        "yearOfConstruction": "1956",
+        "numberOfApartments": "6",
+        "yearOfExpertise": "1993",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada FLUVIULUI 18 Bucuresti",
+        "lat": 44.4474913,
+        "lng": 26.0671017,
+        "yearOfConstruction": "1933",
+        "numberOfApartments": "12",
+        "yearOfExpertise": "1998",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada FRUMOASA 17 Bucuresti",
+        "lat": 44.4483512,
+        "lng": 26.0851051,
+        "yearOfConstruction": "1939",
+        "numberOfApartments": "6",
+        "yearOfExpertise": "2000",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada GABROVENI 6-8 Bucuresti",
+        "lat": 44.4314072,
+        "lng": 26.101355,
+        "yearOfConstruction": "1890",
+        "numberOfApartments": "5",
+        "yearOfExpertise": "2016",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada GARII DE NORD 2-4 (bloc C) Bucuresti",
+        "lat": 44.44481740000001,
+        "lng": 26.078266,
+        "yearOfConstruction": "1959",
+        "numberOfApartments": "276",
+        "yearOfExpertise": "2000",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada GEORGE ENESCU 5 (corp A) Bucuresti",
+        "lat": 44.4422681,
+        "lng": 26.0948188,
+        "yearOfConstruction": "1910",
+        "numberOfApartments": "2",
+        "yearOfExpertise": "2016",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada GEORGE ENESCU 33 Bucuresti",
+        "lat": 44.4439771,
+        "lng": 26.0979404,
+        "yearOfConstruction": "1910",
+        "numberOfApartments": "27",
+        "yearOfExpertise": "1998",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada GEORGE ENESCU 7 Bucuresti",
+        "lat": 44.4424195,
+        "lng": 26.0951043,
+        "yearOfConstruction": "1934",
+        "numberOfApartments": "40",
+        "yearOfExpertise": "1997",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada GEORGE ENESCU 9 Bucuresti",
+        "lat": 44.44249809999999,
+        "lng": 26.0953336,
+        "yearOfConstruction": "1934",
+        "numberOfApartments": "24",
+        "yearOfExpertise": "1997",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada GEORGES CLEMENCEAU 4 Bucuresti",
+        "lat": 44.4419073,
+        "lng": 26.096548,
+        "yearOfConstruction": "1939",
+        "numberOfApartments": "14",
+        "yearOfExpertise": "1997",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Bulevardul GHEORGHE I. DUCA 17 Bucuresti",
+        "lat": 44.4156673,
+        "lng": 26.108353,
+        "yearOfConstruction": "1936",
+        "numberOfApartments": "14",
+        "yearOfExpertise": "1995",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Bulevardul GHEORGHE I. DUCA 8 Bucuresti",
+        "lat": 44.4156673,
+        "lng": 26.108353,
+        "yearOfConstruction": "1938",
+        "numberOfApartments": "22",
+        "yearOfExpertise": "1998",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada GHEORGHE LAZAR 4 Bucuresti",
+        "lat": 44.4367259,
+        "lng": 26.0862072,
+        "yearOfConstruction": "1938",
+        "numberOfApartments": "30",
+        "yearOfExpertise": "2000",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada GHEORGHE LAZAR 5 Bucuresti",
+        "lat": 44.4371365,
+        "lng": 26.086261,
+        "yearOfConstruction": "1920",
+        "numberOfApartments": "1",
+        "yearOfExpertise": "1993",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Bulevardul GHEORGHE MAGHERU 7 Bucuresti",
+        "lat": 44.4423621,
+        "lng": 26.0982071,
+        "yearOfConstruction": "1961",
+        "numberOfApartments": "126",
+        "yearOfExpertise": "2000",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Bulevardul GHEORGHE MAGHERU 32-36 (tronson I+II+III) Bucuresti",
+        "lat": 44.4460917,
+        "lng": 26.0975377,
+        "yearOfConstruction": "1959",
+        "numberOfApartments": "0",
+        "yearOfExpertise": "2010",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Bulevardul GHEORGHE MAGHERU (colT cu Strada JULES MICHELET; Teatrul C.I. NOTTARA) 20 (2-6) Bucuresti",
+        "lat": 44.4437531,
+        "lng": 26.0982232,
+        "yearOfConstruction": "1946; 1940",
+        "numberOfApartments": "66",
+        "yearOfExpertise": "2016",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada GHEORGHE MANDREA 4 Bucuresti",
+        "lat": 44.4334386,
+        "lng": 26.1399231,
+        "yearOfConstruction": "1934",
+        "numberOfApartments": "2",
+        "yearOfExpertise": "1995",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada GHEORGHE MANU 18 Bucuresti",
+        "lat": 44.4481222,
+        "lng": 26.0879043,
+        "yearOfConstruction": "1900",
+        "numberOfApartments": "0",
+        "yearOfExpertise": "2014",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Bulevardul GHEORGHE MARINESCU 19 Bucuresti",
+        "lat": 44.434546,
+        "lng": 26.06698,
+        "yearOfConstruction": "1934",
+        "numberOfApartments": "14",
+        "yearOfExpertise": "1999",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada GHEORGHE PETRASCU 14A (bloc 9A) Bucuresti",
+        "lat": 44.4297771,
+        "lng": 26.150993,
+        "yearOfConstruction": "1964",
+        "numberOfApartments": "44",
+        "yearOfExpertise": "2013",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada GHEORGHE POLIZU 30 Bucuresti",
+        "lat": 44.44730089999999,
+        "lng": 26.079919,
+        "yearOfConstruction": "1937",
+        "numberOfApartments": "5",
+        "yearOfExpertise": "1997",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada GHEORGHE POP DE BASESTI 43-45 (corp A+B) Bucuresti",
+        "lat": 44.4425111,
+        "lng": 26.1235341,
+        "yearOfConstruction": "1939",
+        "numberOfApartments": "11",
+        "yearOfExpertise": "1993",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada GION IONESCU 2 Bucuresti",
+        "lat": 44.4682171,
+        "lng": 26.0597714,
+        "yearOfConstruction": "1938",
+        "numberOfApartments": "240",
+        "yearOfExpertise": "2001",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Calea GIULESTI 42 (bl.8 sc.A-D) Bucuresti",
+        "lat": 44.4586572,
+        "lng": 26.0516795,
+        "yearOfConstruction": "1960-1962",
+        "numberOfApartments": null,
+        "yearOfExpertise": "2018",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Soseaua GIURGIULUI 120A (bloc 13) Bucuresti",
+        "lat": 44.3906165,
+        "lng": 26.0921615,
+        "yearOfConstruction": "1963",
+        "numberOfApartments": "369",
+        "yearOfExpertise": "1993;2000",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Soseaua GIURGIULUI 126 (bloc 7) Bucuresti",
+        "lat": 44.3853914,
+        "lng": 26.0917111,
+        "yearOfConstruction": "1962",
+        "numberOfApartments": "256",
+        "yearOfExpertise": "2001",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada GLADIOLELOR 11 Bucuresti",
+        "lat": 44.4240109,
+        "lng": 26.0919025,
+        "yearOfConstruction": "aprox. 1890",
+        "numberOfApartments": null,
+        "yearOfExpertise": "2019",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Calea GRIVITEI 13 Bucuresti",
+        "lat": 44.44420179999999,
+        "lng": 26.0897165,
+        "yearOfConstruction": "1890",
+        "numberOfApartments": "11",
+        "yearOfExpertise": "1995",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Calea GRIVITEI 77 Bucuresti",
+        "lat": 44.4449809,
+        "lng": 26.084287,
+        "yearOfConstruction": "1900",
+        "numberOfApartments": "5",
+        "yearOfExpertise": "1997",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Calea GRIVITEI 139 Bucuresti",
+        "lat": 44.445958,
+        "lng": 26.0792427,
+        "yearOfConstruction": "1965",
+        "numberOfApartments": "108",
+        "yearOfExpertise": "1998",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Calea GRIVITEI 174 (bloc S) Bucuresti",
+        "lat": 44.4524334,
+        "lng": 26.066797,
+        "yearOfConstruction": "1962",
+        "numberOfApartments": "46",
+        "yearOfExpertise": "2001",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Calea GRIVITEI 188 (bloc M) Bucuresti",
+        "lat": 44.4543249,
+        "lng": 26.0637544,
+        "yearOfConstruction": "1962",
+        "numberOfApartments": "46",
+        "yearOfExpertise": "2001",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Calea GRIVITEI 236 (bloc H) Bucuresti",
+        "lat": 44.4705345,
+        "lng": 26.0510027,
+        "yearOfConstruction": "1961",
+        "numberOfApartments": "93",
+        "yearOfExpertise": "2001",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Calea GRIVITEI 395 (bloc M) Bucuresti",
+        "lat": 44.4702342,
+        "lng": 26.0503026,
+        "yearOfConstruction": "1960",
+        "numberOfApartments": "92",
+        "yearOfExpertise": "2001",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada HENRI COANDA 33 Bucuresti",
+        "lat": 44.4489963,
+        "lng": 26.0915778,
+        "yearOfConstruction": "1938",
+        "numberOfApartments": "5",
+        "yearOfExpertise": "2000",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada HENRI MATHIAS BERTHELOT 27 Bucuresti",
+        "lat": 44.4267674,
+        "lng": 26.1025384,
+        "yearOfConstruction": "1940",
+        "numberOfApartments": "0",
+        "yearOfExpertise": "2002",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada HENRI MATHIAS BERTHELOT 36 Bucuresti",
+        "lat": 44.4410593,
+        "lng": 26.0873912,
+        "yearOfConstruction": "1936",
+        "numberOfApartments": "0",
+        "yearOfExpertise": "1998",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Bulevardul HRISTO BOTEV 3 Bucuresti",
+        "lat": 44.4356061,
+        "lng": 26.1066236,
+        "yearOfConstruction": "1923-1925",
+        "numberOfApartments": "14",
+        "yearOfExpertise": "2017",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Bulevardul HRISTO BOTEV 8 Bucuresti",
+        "lat": 44.4352327,
+        "lng": 26.1063849,
+        "yearOfConstruction": "1930",
+        "numberOfApartments": "15",
+        "yearOfExpertise": "1994",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Bulevardul I. C. BRATIANU (Libraria COLTEI) 12 Bucuresti",
+        "lat": 44.4346079,
+        "lng": 26.1039161,
+        "yearOfConstruction": "1928",
+        "numberOfApartments": "11",
+        "yearOfExpertise": "1999",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada IACOB FELIX 11 Bucuresti",
+        "lat": 44.4486898,
+        "lng": 26.0815139,
+        "yearOfConstruction": "1930",
+        "numberOfApartments": "5",
+        "yearOfExpertise": "1996",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada ICOANEI 25 Bucuresti",
+        "lat": 44.444304,
+        "lng": 26.1084825,
+        "yearOfConstruction": "1935",
+        "numberOfApartments": "5",
+        "yearOfExpertise": "1997",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada ICOANEI 69 (corp B+C) Bucuresti",
+        "lat": 44.447625,
+        "lng": 26.1102698,
+        "yearOfConstruction": "1880",
+        "numberOfApartments": "0",
+        "yearOfExpertise": "1993",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada IENACHITA VACARESCU 34 (corp C) Bucuresti",
+        "lat": 44.4238018,
+        "lng": 26.0998559,
+        "yearOfConstruction": "1906",
+        "numberOfApartments": "2",
+        "yearOfExpertise": "2017",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada ILFOV 1B Bucuresti",
+        "lat": 44.4321808,
+        "lng": 26.0960234,
+        "yearOfConstruction": "1898",
+        "numberOfApartments": "0",
+        "yearOfExpertise": "1997",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Splaiul INDEPENDENTEI (colT cu Strada NICOLAE TONITZA) 2K (13) Bucuresti",
+        "lat": 44.430442,
+        "lng": 26.098442,
+        "yearOfConstruction": "1915",
+        "numberOfApartments": "18",
+        "yearOfExpertise": "2016",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Intrarea IOANID 4 Bucuresti",
+        "lat": 44.447781,
+        "lng": 26.0933061,
+        "yearOfConstruction": "1910",
+        "numberOfApartments": "8",
+        "yearOfExpertise": "1999",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada ION BERINDEI 8 (bloc OD17) Bucuresti",
+        "lat": 44.4599446,
+        "lng": 26.1308603,
+        "yearOfConstruction": "1970",
+        "numberOfApartments": "44",
+        "yearOfExpertise": "2000",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada ION BREZOIANU 11 Bucuresti",
+        "lat": 44.43429889999999,
+        "lng": 26.0945496,
+        "yearOfConstruction": "1935",
+        "numberOfApartments": "19",
+        "yearOfExpertise": "1997",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada ION BREZOIANU 29A Bucuresti",
+        "lat": 44.43621690000001,
+        "lng": 26.0944186,
+        "yearOfConstruction": "1930",
+        "numberOfApartments": "45",
+        "yearOfExpertise": "1994",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada ION BREZOIANU 53A Bucuresti",
+        "lat": 44.43838119999999,
+        "lng": 26.0927318,
+        "yearOfConstruction": "1946",
+        "numberOfApartments": "34",
+        "yearOfExpertise": "2002",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada ION BREZOIANU 53B Bucuresti",
+        "lat": 44.43838119999999,
+        "lng": 26.0927318,
+        "yearOfConstruction": "1946",
+        "numberOfApartments": "34",
+        "yearOfExpertise": "2002",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada ION CAMPINEANU 1 (corp A) Bucuresti",
+        "lat": 44.4375886,
+        "lng": 26.1007147,
+        "yearOfConstruction": "1957",
+        "numberOfApartments": "47",
+        "yearOfExpertise": "2000",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada ION CAMPINEANU 13 Bucuresti",
+        "lat": 44.4371745,
+        "lng": 26.0985246,
+        "yearOfConstruction": "1921",
+        "numberOfApartments": "16",
+        "yearOfExpertise": "1997",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada ION CAMPINEANU 20A (bloc 18A) Bucuresti",
+        "lat": 44.437631,
+        "lng": 26.0971846,
+        "yearOfConstruction": "1961",
+        "numberOfApartments": "0",
+        "yearOfExpertise": "1998",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada ION CAMPINEANU 25 Bucuresti",
+        "lat": 44.4374592,
+        "lng": 26.0952398,
+        "yearOfConstruction": "1960",
+        "numberOfApartments": "89",
+        "yearOfExpertise": "2004",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada ION CAMPINEANU 31 (bloc 4; sc.1; bloc 5; bloc 6A) Bucuresti",
+        "lat": 44.4392124,
+        "lng": 26.0934243,
+        "yearOfConstruction": "1960",
+        "numberOfApartments": "30",
+        "yearOfExpertise": "2004",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada ION CAMPINEANU 31 (bloc 4; sc.2+3+4) Bucuresti",
+        "lat": 44.4392124,
+        "lng": 26.0934243,
+        "yearOfConstruction": "1959",
+        "numberOfApartments": "90",
+        "yearOfExpertise": "2004",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada ION CAMPINEANU 24 (tr. 1+2+3) Bucuresti",
+        "lat": 44.4376197,
+        "lng": 26.0963926,
+        "yearOfConstruction": "1960-1962",
+        "numberOfApartments": null,
+        "yearOfExpertise": "2018",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Intrarea ION LUCA CARAGIALE 8 Bucuresti",
+        "lat": 44.4401631,
+        "lng": 26.1054901,
+        "yearOfConstruction": "1933",
+        "numberOfApartments": "13",
+        "yearOfExpertise": "1997",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada ION NISTOR 4 Bucuresti",
+        "lat": 44.4346657,
+        "lng": 26.1018534,
+        "yearOfConstruction": "1949",
+        "numberOfApartments": "0",
+        "yearOfExpertise": "1994",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada ION SLATINEANU 4 (corp A+B) Bucuresti",
+        "lat": 44.450263,
+        "lng": 26.0964829,
+        "yearOfConstruction": "1935",
+        "numberOfApartments": "6",
+        "yearOfExpertise": "1997",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Bulevardul IULIU MANIU 57 (bloc OD16) Bucuresti",
+        "lat": 44.4339056,
+        "lng": 26.0290604,
+        "yearOfConstruction": "1972",
+        "numberOfApartments": "264",
+        "yearOfExpertise": "2000",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada JEAN LOUIS CALDERON 40 Bucuresti",
+        "lat": 44.4399229,
+        "lng": 26.1050712,
+        "yearOfConstruction": "1942",
+        "numberOfApartments": "32",
+        "yearOfExpertise": "2010",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada JEAN LOUIS CALDERON 76 Bucuresti",
+        "lat": 44.4423385,
+        "lng": 26.1048551,
+        "yearOfConstruction": "1900",
+        "numberOfApartments": "0",
+        "yearOfExpertise": "1993",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada JOLIOT FREDERIC CURIE 7 Bucuresti",
+        "lat": 44.4267674,
+        "lng": 26.1025384,
+        "yearOfConstruction": "1939",
+        "numberOfApartments": "7",
+        "yearOfExpertise": "1997",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada JOLIOT FREDERIC CURIE 10 Bucuresti",
+        "lat": 44.4267674,
+        "lng": 26.1025384,
+        "yearOfConstruction": "1938; 1940",
+        "numberOfApartments": "9",
+        "yearOfExpertise": "1997",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada JOSEPH LISTER 1 Bucuresti",
+        "lat": 44.433791,
+        "lng": 26.0778182,
+        "yearOfConstruction": "1934",
+        "numberOfApartments": "21",
+        "yearOfExpertise": "2023",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada JULES MICHELET 19 Bucuresti",
+        "lat": 44.4441901,
+        "lng": 26.1001889,
+        "yearOfConstruction": "1935",
+        "numberOfApartments": "13",
+        "yearOfExpertise": "1998",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada JULES MICHELET 25 Bucuresti",
+        "lat": 44.4442599,
+        "lng": 26.1007157,
+        "yearOfConstruction": "1936",
+        "numberOfApartments": "11",
+        "yearOfExpertise": "1997",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Bulevardul LASCAR CATARGIU 11A Bucuresti",
+        "lat": 44.4477663,
+        "lng": 26.0946213,
+        "yearOfConstruction": "1939",
+        "numberOfApartments": "30",
+        "yearOfExpertise": "1994",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Bulevardul LASCAR CATARGIU (imobil cu destinaTia de birouri si locuinte) 1 Bucuresti",
+        "lat": 44.4492952,
+        "lng": 26.0919365,
+        "yearOfConstruction": "1890",
+        "numberOfApartments": "6",
+        "yearOfExpertise": "2017",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada LITOVOI VOIEVOD 1 (bloc OD7A) Bucuresti",
+        "lat": 44.4569184,
+        "lng": 26.1309866,
+        "yearOfConstruction": "1970",
+        "numberOfApartments": "44",
+        "yearOfExpertise": "2000",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada LIZEANU 20 Bucuresti",
+        "lat": 44.453058,
+        "lng": 26.1205919,
+        "yearOfConstruction": "1936",
+        "numberOfApartments": "13",
+        "yearOfExpertise": "1997",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada LONDRA 19 Bucuresti",
+        "lat": 44.4546308,
+        "lng": 26.0929088,
+        "yearOfConstruction": "1935",
+        "numberOfApartments": "12",
+        "yearOfExpertise": "1996",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada LUTERANA 5 Bucuresti",
+        "lat": 44.4408834,
+        "lng": 26.0922591,
+        "yearOfConstruction": "1932",
+        "numberOfApartments": "71",
+        "yearOfExpertise": "1998",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada MAIOR ALEXANDRU CIMPEANU 13 Bucuresti",
+        "lat": 44.45707720000001,
+        "lng": 26.0768204,
+        "yearOfConstruction": "1920",
+        "numberOfApartments": "7",
+        "yearOfExpertise": "1997",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada MAIOR ALEXANDRU CIMPEANU 29 Bucuresti",
+        "lat": 44.4565676,
+        "lng": 26.0761952,
+        "yearOfConstruction": "1934",
+        "numberOfApartments": "5",
+        "yearOfExpertise": "1997",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada MANTULEASA 16 Bucuresti",
+        "lat": 44.4345374,
+        "lng": 26.1126351,
+        "yearOfConstruction": "1928",
+        "numberOfApartments": "9",
+        "yearOfExpertise": "2001",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Bulevardul MARASESTI 100 Bucuresti",
+        "lat": 44.4224185,
+        "lng": 26.1084885,
+        "yearOfConstruction": "1937",
+        "numberOfApartments": "10",
+        "yearOfExpertise": "1997",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada MARIA ROSETTI 16 (corp A+B) Bucuresti",
+        "lat": 44.4421261,
+        "lng": 26.1082104,
+        "yearOfConstruction": "1936",
+        "numberOfApartments": "9",
+        "yearOfExpertise": "1993",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada MARIA ROSETTI 26 Bucuresti",
+        "lat": 44.4419184,
+        "lng": 26.1097244,
+        "yearOfConstruction": "1938",
+        "numberOfApartments": "12",
+        "yearOfExpertise": "1997",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada MARIA ROSETTI 31 Bucuresti",
+        "lat": 44.44250299999999,
+        "lng": 26.1083444,
+        "yearOfConstruction": "1938",
+        "numberOfApartments": "14",
+        "yearOfExpertise": "2008",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada MARIA ROSETTI 43 Bucuresti",
+        "lat": 44.4423934,
+        "lng": 26.1093897,
+        "yearOfConstruction": "1936",
+        "numberOfApartments": "6",
+        "yearOfExpertise": "1993",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada MARIA ROSETTI 8 Bucuresti",
+        "lat": 44.4417987,
+        "lng": 26.1068343,
+        "yearOfConstruction": "1934",
+        "numberOfApartments": "16",
+        "yearOfExpertise": "1993",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada MASINA DE PAINE 39 (bloc OD59A) Bucuresti",
+        "lat": 44.4529431,
+        "lng": 26.124834,
+        "yearOfConstruction": "1970",
+        "numberOfApartments": "44",
+        "yearOfExpertise": "2000",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada MASINA DE PAINE 6 (bloc R31) Bucuresti",
+        "lat": 44.4534647,
+        "lng": 26.1258011,
+        "yearOfConstruction": "1969",
+        "numberOfApartments": "88",
+        "yearOfExpertise": "2000",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada MASINA DE PAINE 69 (bloc OD23) Bucuresti",
+        "lat": 44.4576072,
+        "lng": 26.1280379,
+        "yearOfConstruction": "1969",
+        "numberOfApartments": "176",
+        "yearOfExpertise": "2000",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada MASINA DE PAINE 8 (bloc OD36) Bucuresti",
+        "lat": 44.4538362,
+        "lng": 26.1258178,
+        "yearOfConstruction": "1968",
+        "numberOfApartments": "44",
+        "yearOfExpertise": "2000",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada MATEI MILLO 12 Bucuresti",
+        "lat": 44.43644949999999,
+        "lng": 26.0955907,
+        "yearOfConstruction": "1938",
+        "numberOfApartments": "39",
+        "yearOfExpertise": "1999",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada MAXIM GORKI 1 Bucuresti",
+        "lat": 44.4655217,
+        "lng": 26.0923559,
+        "yearOfConstruction": "1958",
+        "numberOfApartments": "12",
+        "yearOfExpertise": "1997",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Soseaua MIHAI BRAVU 107-119 Bucuresti",
+        "lat": 44.44044299999999,
+        "lng": 26.134955,
+        "yearOfConstruction": "1963",
+        "numberOfApartments": "269",
+        "yearOfExpertise": "2001",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Soseaua MIHAI BRAVU 90-96 (bloc D17; tr.A+B+C) Bucuresti",
+        "lat": 44.4429856,
+        "lng": 26.1291725,
+        "yearOfConstruction": "1963",
+        "numberOfApartments": "147",
+        "yearOfExpertise": "2015",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada MIHAI EMINESCU 34 Bucuresti",
+        "lat": 44.4470148,
+        "lng": 26.1003817,
+        "yearOfConstruction": "1939",
+        "numberOfApartments": "8",
+        "yearOfExpertise": "1994",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada MIHAI EMINESCU 75A Bucuresti",
+        "lat": 44.4480575,
+        "lng": 26.1062075,
+        "yearOfConstruction": "1927",
+        "numberOfApartments": "4",
+        "yearOfExpertise": "1997",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Bulevardul MIHAIL KOGALNICEANU 16 (fost 46) Bucuresti",
+        "lat": 44.4346599,
+        "lng": 26.0857597,
+        "yearOfConstruction": "1900",
+        "numberOfApartments": "4",
+        "yearOfExpertise": "1997",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Bulevardul MIHAIL KOGALNICEANU 37 (fost 87) Bucuresti",
+        "lat": 44.43434999999999,
+        "lng": 26.083728,
+        "yearOfConstruction": "1932",
+        "numberOfApartments": "15",
+        "yearOfExpertise": "1997",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada MIHAIL MOXA 2 (corp B+C) Bucuresti",
+        "lat": 44.4467529,
+        "lng": 26.0899861,
+        "yearOfConstruction": "1920",
+        "numberOfApartments": "0",
+        "yearOfExpertise": "2019",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada MIRCEA VULCANESCU 108 (corp A+B+C) Bucuresti",
+        "lat": 44.4410063,
+        "lng": 26.0739519,
+        "yearOfConstruction": "1924",
+        "numberOfApartments": "9",
+        "yearOfExpertise": "1995",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada MITROPOLIT NIFON 30 Bucuresti",
+        "lat": 44.4198388,
+        "lng": 26.0933654,
+        "yearOfConstruction": "1937",
+        "numberOfApartments": "2",
+        "yearOfExpertise": "1997",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Calea MOSILOR 42 Bucuresti",
+        "lat": 44.43107029999999,
+        "lng": 26.1052209,
+        "yearOfConstruction": "1930",
+        "numberOfApartments": "4",
+        "yearOfExpertise": "1993",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Calea MOSILOR 59 Bucuresti",
+        "lat": 44.4340207,
+        "lng": 26.107438,
+        "yearOfConstruction": "1933",
+        "numberOfApartments": "11",
+        "yearOfExpertise": "1993",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Calea MOSILOR 126A Bucuresti",
+        "lat": 44.4358058,
+        "lng": 26.1098091,
+        "yearOfConstruction": "1936",
+        "numberOfApartments": "10",
+        "yearOfExpertise": "2001",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Calea MOSILOR 133 Bucuresti",
+        "lat": 44.4387659,
+        "lng": 26.1146691,
+        "yearOfConstruction": "1938",
+        "numberOfApartments": "22",
+        "yearOfExpertise": "2017",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Calea MOSILOR 145 Bucuresti",
+        "lat": 44.4394921,
+        "lng": 26.1150612,
+        "yearOfConstruction": "1938",
+        "numberOfApartments": "10",
+        "yearOfExpertise": "2007",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Calea MOSILOR 27 Bucuresti",
+        "lat": 44.4311245,
+        "lng": 26.10484,
+        "yearOfConstruction": "1885",
+        "numberOfApartments": "4",
+        "yearOfExpertise": "2016",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Calea MOSILOR 215E Bucuresti",
+        "lat": 44.4432393,
+        "lng": 26.1178455,
+        "yearOfConstruction": "10962",
+        "numberOfApartments": null,
+        "yearOfExpertise": "2019",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Bulevardul NICOLAE BALCESCU 21 (corp A+B) Bucuresti",
+        "lat": 44.4386674,
+        "lng": 26.1003265,
+        "yearOfConstruction": "1920-1940",
+        "numberOfApartments": "0",
+        "yearOfExpertise": "2018",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Bulevardul NICOLAE BALCESCU 35-35A Bucuresti",
+        "lat": 44.440211,
+        "lng": 26.099511,
+        "yearOfConstruction": "1937",
+        "numberOfApartments": "49",
+        "yearOfExpertise": "1998",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Bulevardul NICOLAE BALCESCU (Libraria DIVERTA  DALLES) 18 Bucuresti",
+        "lat": 44.4383005,
+        "lng": 26.1009171,
+        "yearOfConstruction": "1960",
+        "numberOfApartments": "134",
+        "yearOfExpertise": "1998",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada NICOLAE GOLESCU 20 Bucuresti",
+        "lat": 44.44215459999999,
+        "lng": 26.0975752,
+        "yearOfConstruction": "1921",
+        "numberOfApartments": "11",
+        "yearOfExpertise": "2016",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada NICOLAE IORGA 17 Bucuresti",
+        "lat": 44.4479435,
+        "lng": 26.0922573,
+        "yearOfConstruction": "1940",
+        "numberOfApartments": "15",
+        "yearOfExpertise": "1994",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada NICULAE T. SEBE 11 (bloc S21) Bucuresti",
+        "lat": 44.4057167,
+        "lng": 26.1450817,
+        "yearOfConstruction": "1962",
+        "numberOfApartments": "38",
+        "yearOfExpertise": "2001",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Aleea OTESANI 1-7 (bloc OD52+OD54) Bucuresti",
+        "lat": 44.4573377,
+        "lng": 26.12729,
+        "yearOfConstruction": "1970",
+        "numberOfApartments": "176",
+        "yearOfExpertise": "2000",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Bulevardul PACHE PROTOPOPESCU 18 Bucuresti",
+        "lat": 44.4383665,
+        "lng": 26.1186289,
+        "yearOfConstruction": "1924",
+        "numberOfApartments": "3",
+        "yearOfExpertise": "1997",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Bulevardul PACHE PROTOPOPESCU 34 Bucuresti",
+        "lat": 44.438834,
+        "lng": 26.121046,
+        "yearOfConstruction": "1934",
+        "numberOfApartments": "0",
+        "yearOfExpertise": "1993",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Bulevardul PACHE PROTOPOPESCU 44 Bucuresti",
+        "lat": 44.4390543,
+        "lng": 26.121753,
+        "yearOfConstruction": "1890",
+        "numberOfApartments": "6",
+        "yearOfExpertise": "2012",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "PIATA PACHE PROTOPOPESCU 2 Bucuresti",
+        "lat": 44.4383066,
+        "lng": 26.1159771,
+        "yearOfConstruction": "1938",
+        "numberOfApartments": "10",
+        "yearOfExpertise": "2001",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "PIATA PACHE PROTOPOPESCU 15 Bucuresti",
+        "lat": 44.4378082,
+        "lng": 26.1159249,
+        "yearOfConstruction": "1940",
+        "numberOfApartments": "40",
+        "yearOfExpertise": "2011",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada PALADE GHEORGHE 1 Bucuresti",
+        "lat": 44.4464749,
+        "lng": 26.1116718,
+        "yearOfConstruction": "1930",
+        "numberOfApartments": "15",
+        "yearOfExpertise": "1995",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada PALEOLOGU 15 Bucuresti",
+        "lat": 44.4343458,
+        "lng": 26.1119581,
+        "yearOfConstruction": "1930",
+        "numberOfApartments": "10",
+        "yearOfExpertise": "1993",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Soseaua PANDURI 30 Bucuresti",
+        "lat": 44.4260372,
+        "lng": 26.0696538,
+        "yearOfConstruction": "1920",
+        "numberOfApartments": "4",
+        "yearOfExpertise": "2016",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Soseaua PANTELIMON 235 (bloc 67) Bucuresti",
+        "lat": 44.44382100000001,
+        "lng": 26.1521507,
+        "yearOfConstruction": "1976",
+        "numberOfApartments": "178",
+        "yearOfExpertise": "2000",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada PARFUMULUI 28 Bucuresti",
+        "lat": 44.4278459,
+        "lng": 26.115394,
+        "yearOfConstruction": "1944",
+        "numberOfApartments": "30",
+        "yearOfExpertise": "2018",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada PARIS 4 Bucuresti",
+        "lat": 44.4538872,
+        "lng": 26.087864,
+        "yearOfConstruction": "1937",
+        "numberOfApartments": "14",
+        "yearOfExpertise": "1995",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada PARIS 40 Bucuresti",
+        "lat": 44.457615,
+        "lng": 26.092236,
+        "yearOfConstruction": "1930",
+        "numberOfApartments": "11",
+        "yearOfExpertise": "1993",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada PASULUI 5 Bucuresti",
+        "lat": 44.4385181,
+        "lng": 26.1122595,
+        "yearOfConstruction": "1938",
+        "numberOfApartments": "5",
+        "yearOfExpertise": "1994",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada PATRIOTILOR 3A (bloc M3G) Bucuresti",
+        "lat": 44.4112024,
+        "lng": 26.1652874,
+        "yearOfConstruction": "1975",
+        "numberOfApartments": "44",
+        "yearOfExpertise": "2013",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada PIATA AMZEI 7-9 Bucuresti",
+        "lat": 44.4435179,
+        "lng": 26.0941605,
+        "yearOfConstruction": "1958",
+        "numberOfApartments": "90",
+        "yearOfExpertise": "1997",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "PIATA GARII FILARET 2 Bucuresti",
+        "lat": 44.4161063,
+        "lng": 26.0916302,
+        "yearOfConstruction": "1920",
+        "numberOfApartments": "13",
+        "yearOfExpertise": "2018",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada PITAR MOS 19 Bucuresti",
+        "lat": 44.4430473,
+        "lng": 26.1007155,
+        "yearOfConstruction": "1936",
+        "numberOfApartments": "10",
+        "yearOfExpertise": "2011",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Aleea POIANA MUNTELUI 2 (bloc OD3) Bucuresti",
+        "lat": 44.4243126,
+        "lng": 26.0304251,
+        "yearOfConstruction": "1964",
+        "numberOfApartments": "224",
+        "yearOfExpertise": "2000",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada POLONA 42 Bucuresti",
+        "lat": 44.4490209,
+        "lng": 26.103127,
+        "yearOfConstruction": "1930",
+        "numberOfApartments": "6",
+        "yearOfExpertise": "2011",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada POLONA 47 Bucuresti",
+        "lat": 44.44847730000001,
+        "lng": 26.1027546,
+        "yearOfConstruction": "1935",
+        "numberOfApartments": "4",
+        "yearOfExpertise": "1993",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada POLONA 75 Bucuresti",
+        "lat": 44.44998409999999,
+        "lng": 26.1023019,
+        "yearOfConstruction": "1939",
+        "numberOfApartments": "3",
+        "yearOfExpertise": "1993",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada POMPILIU ELIADE 4 Bucuresti",
+        "lat": 44.4351113,
+        "lng": 26.0882821,
+        "yearOfConstruction": "1958",
+        "numberOfApartments": "14",
+        "yearOfExpertise": "2002",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada POPA NAN 19 Bucuresti",
+        "lat": 44.4379375,
+        "lng": 26.1235425,
+        "yearOfConstruction": "1935",
+        "numberOfApartments": "11",
+        "yearOfExpertise": "1997",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada POPA NAN 76 Bucuresti",
+        "lat": 44.4341601,
+        "lng": 26.1253316,
+        "yearOfConstruction": "1940",
+        "numberOfApartments": "9",
+        "yearOfExpertise": "1996",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada POPA PETRE 37 (corp A+B) Bucuresti",
+        "lat": 44.4411365,
+        "lng": 26.115873,
+        "yearOfConstruction": "1924",
+        "numberOfApartments": "7",
+        "yearOfExpertise": "1993",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada POPA TATU 76 Bucuresti",
+        "lat": 44.4444984,
+        "lng": 26.082916,
+        "yearOfConstruction": "1938",
+        "numberOfApartments": "12",
+        "yearOfExpertise": "1997",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada POSTAVARUL 6 (bloc D2; tr.I+II) Bucuresti",
+        "lat": 44.4173184,
+        "lng": 26.1696631,
+        "yearOfConstruction": "1967",
+        "numberOfApartments": "264",
+        "yearOfExpertise": "2013",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada POTERAS 35 Bucuresti",
+        "lat": 44.419455,
+        "lng": 26.1054454,
+        "yearOfConstruction": "1938",
+        "numberOfApartments": "16",
+        "yearOfExpertise": "1997",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada POVERNEI (Sediul S.N.S.P.A.; fostul sediu S.R.I.) 6-8 (corp A1+A2) Bucuresti",
+        "lat": 44.42491130000001,
+        "lng": 26.0913392,
+        "yearOfConstruction": "1924-1929",
+        "numberOfApartments": "0",
+        "yearOfExpertise": "2008",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Aleea PRAVAT 2 (bloc Z6) Bucuresti",
+        "lat": 44.425188,
+        "lng": 26.0410852,
+        "yearOfConstruction": "1968",
+        "numberOfApartments": "66",
+        "yearOfExpertise": "2010",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada PRISACA DORNEI 6 (bloc D5) Bucuresti",
+        "lat": 44.418926,
+        "lng": 26.169511,
+        "yearOfConstruction": "1967",
+        "numberOfApartments": "264",
+        "yearOfExpertise": "2013",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Intrarea PROCOPIE DUMITRESCU 3 Bucuresti",
+        "lat": 44.4424889,
+        "lng": 26.1167902,
+        "yearOfConstruction": "1930",
+        "numberOfApartments": "4",
+        "yearOfExpertise": "1993",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Bulevardul REGINA ELISABETA 5 Bucuresti",
+        "lat": 44.43454980000001,
+        "lng": 26.1008549,
+        "yearOfConstruction": "1896 - 1914",
+        "numberOfApartments": "-",
+        "yearOfExpertise": "2018",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Bulevardul REGINA ELISABETA (imobil birouri  ADMINISTRATIA FONDULUI IMOBILIAR) 16 Bucuresti",
+        "lat": 44.4350441,
+        "lng": 26.099088,
+        "yearOfConstruction": "1935",
+        "numberOfApartments": "0",
+        "yearOfExpertise": "2001",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Bulevardul REGINA MARIA 33-35 (corp A) Bucuresti",
+        "lat": 44.4221683,
+        "lng": 26.0922267,
+        "yearOfConstruction": "1900",
+        "numberOfApartments": "5",
+        "yearOfExpertise": "2017",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Intrarea RIGAS 29B Bucuresti",
+        "lat": 44.4360933,
+        "lng": 26.0939016,
+        "yearOfConstruction": "1938",
+        "numberOfApartments": "47",
+        "yearOfExpertise": "2007",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada ROMA 8 Bucuresti",
+        "lat": 44.4533583,
+        "lng": 26.0950062,
+        "yearOfConstruction": "1923",
+        "numberOfApartments": "3",
+        "yearOfExpertise": "1997",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada ROMULUS 64 (corp A+B) Bucuresti",
+        "lat": 44.4288223,
+        "lng": 26.1151892,
+        "yearOfConstruction": "1890",
+        "numberOfApartments": "4",
+        "yearOfExpertise": "1993",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada SCHITU DARVARI 14A Bucuresti",
+        "lat": 44.44305990000001,
+        "lng": 26.1075392,
+        "yearOfConstruction": "1935",
+        "numberOfApartments": "2",
+        "yearOfExpertise": "1997",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Bulevardul SCHITU MAGUREANU 17 Bucuresti",
+        "lat": 44.4361326,
+        "lng": 26.0886397,
+        "yearOfConstruction": "1938",
+        "numberOfApartments": "19",
+        "yearOfExpertise": "1997",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Bulevardul SCHITU MAGUREANU 25 Bucuresti",
+        "lat": 44.4367599,
+        "lng": 26.0883704,
+        "yearOfConstruction": "1947",
+        "numberOfApartments": "28",
+        "yearOfExpertise": "1995",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Bulevardul SCHITU MAGUREANU 39 Bucuresti",
+        "lat": 44.4386304,
+        "lng": 26.087257,
+        "yearOfConstruction": "1946",
+        "numberOfApartments": "34",
+        "yearOfExpertise": "1997",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada SELARI 13 Bucuresti",
+        "lat": 44.43041110000001,
+        "lng": 26.10076,
+        "yearOfConstruction": "1910",
+        "numberOfApartments": "0",
+        "yearOfExpertise": "2016",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Calea SERBAN VODA 31 Bucuresti",
+        "lat": 44.4230966,
+        "lng": 26.1029712,
+        "yearOfConstruction": "1930",
+        "numberOfApartments": "29",
+        "yearOfExpertise": "1999",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Calea SERBAN VODA 105 Bucuresti",
+        "lat": 44.41848359999999,
+        "lng": 26.1012533,
+        "yearOfConstruction": "0",
+        "numberOfApartments": "16",
+        "yearOfExpertise": "1993;1995",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Calea SERBAN VODA 124 Bucuresti",
+        "lat": 44.41830220000001,
+        "lng": 26.1007564,
+        "yearOfConstruction": "1938",
+        "numberOfApartments": "10",
+        "yearOfExpertise": "1997",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada SFANTA MARIA 51 Bucuresti",
+        "lat": 44.4599742,
+        "lng": 26.0689008,
+        "yearOfConstruction": "1926",
+        "numberOfApartments": "3",
+        "yearOfExpertise": "1997",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada SFANTUL CONSTANTIN 24 Bucuresti",
+        "lat": 44.4365072,
+        "lng": 26.0852925,
+        "yearOfConstruction": "1927",
+        "numberOfApartments": "27",
+        "yearOfExpertise": "2000",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada SFANTUL ELEFTERIE 14 Bucuresti",
+        "lat": 44.4337971,
+        "lng": 26.0762576,
+        "yearOfConstruction": "1934",
+        "numberOfApartments": "12",
+        "yearOfExpertise": "1997",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada SFANTUL ELEFTERIE 16 Bucuresti",
+        "lat": 44.4336011,
+        "lng": 26.0761374,
+        "yearOfConstruction": "1934",
+        "numberOfApartments": "14",
+        "yearOfExpertise": "1997",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada SFANTUL STEFAN 4 Bucuresti",
+        "lat": 44.4350454,
+        "lng": 26.1165131,
+        "yearOfConstruction": "1937",
+        "numberOfApartments": "0",
+        "yearOfExpertise": "1993",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada SFINTII APOSTOLI 40 Bucuresti",
+        "lat": 44.4291935,
+        "lng": 26.0940686,
+        "yearOfConstruction": "1945",
+        "numberOfApartments": "20",
+        "yearOfExpertise": "2002",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada SFINTII APOSTOLI 1 Bucuresti",
+        "lat": 44.4277407,
+        "lng": 26.0968021,
+        "yearOfConstruction": "1897",
+        "numberOfApartments": "11",
+        "yearOfExpertise": "1997",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada SFINTII VOIEVOZI 29 Bucuresti",
+        "lat": 44.4467426,
+        "lng": 26.0856719,
+        "yearOfConstruction": "1940",
+        "numberOfApartments": "29",
+        "yearOfExpertise": "1999",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada SFINTII VOIEVOZI 55 Bucuresti",
+        "lat": 44.4472134,
+        "lng": 26.0881571,
+        "yearOfConstruction": "1920",
+        "numberOfApartments": "4",
+        "yearOfExpertise": "2016",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada SILFIDELOR 4 Bucuresti",
+        "lat": 44.4341351,
+        "lng": 26.0906116,
+        "yearOfConstruction": "1939",
+        "numberOfApartments": "27",
+        "yearOfExpertise": "1999",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada SMARDAN 19 Bucuresti",
+        "lat": 44.4316366,
+        "lng": 26.0999205,
+        "yearOfConstruction": "1900",
+        "numberOfApartments": null,
+        "yearOfExpertise": "2019",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada SMARDAN 18 Bucuresti",
+        "lat": 44.4312928,
+        "lng": 26.0997247,
+        "yearOfConstruction": "1940",
+        "numberOfApartments": "31",
+        "yearOfExpertise": "2020",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada SOARELUI 3-5 Bucuresti",
+        "lat": 44.4305391,
+        "lng": 26.1014946,
+        "yearOfConstruction": "1900",
+        "numberOfApartments": "3",
+        "yearOfExpertise": "1993",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada SPATARU PREDA (TESATORIILE REUNITE S.A.) 5 (corp C1) Bucuresti",
+        "lat": 44.412932,
+        "lng": 26.0855024,
+        "yearOfConstruction": "1938-1939",
+        "numberOfApartments": "0",
+        "yearOfExpertise": "2016",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada SPATARU PREDA (TESATORIILE REUNITE S.A.) 5 (corp C2) Bucuresti",
+        "lat": 44.412932,
+        "lng": 26.0855024,
+        "yearOfConstruction": "1979-1980",
+        "numberOfApartments": "0",
+        "yearOfExpertise": "2016",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada SPATARU PREDA (TESATORIILE REUNITE S.A.) 5 (corp C6) Bucuresti",
+        "lat": 44.49578810000001,
+        "lng": 26.0029288,
+        "yearOfConstruction": "1976-1977",
+        "numberOfApartments": "0",
+        "yearOfExpertise": "2016",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada SPATARUL NICOLAE MILESCU 6 Bucuresti",
+        "lat": 44.445773,
+        "lng": 26.1376841,
+        "yearOfConstruction": "1933",
+        "numberOfApartments": "8",
+        "yearOfExpertise": "1997",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada SPATARULUI 1A Bucuresti",
+        "lat": 44.4375624,
+        "lng": 26.1117911,
+        "yearOfConstruction": "1942",
+        "numberOfApartments": "15",
+        "yearOfExpertise": "1997",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Intrarea SPATARULUI 3 Bucuresti",
+        "lat": 44.4382207,
+        "lng": 26.1127844,
+        "yearOfConstruction": "1939",
+        "numberOfApartments": "8",
+        "yearOfExpertise": "1993;1997",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada SPERANTEI 13 Bucuresti",
+        "lat": 44.4384,
+        "lng": 26.1084688,
+        "yearOfConstruction": "1940",
+        "numberOfApartments": "11",
+        "yearOfExpertise": "1997",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada SPERANTEI 26 Bucuresti",
+        "lat": 44.4381591,
+        "lng": 26.1085183,
+        "yearOfConstruction": "1941",
+        "numberOfApartments": "26",
+        "yearOfExpertise": "1997",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada SPIRU HARET 8 Bucuresti",
+        "lat": 44.4406571,
+        "lng": 26.0903912,
+        "yearOfConstruction": "1886",
+        "numberOfApartments": "-",
+        "yearOfExpertise": "2016",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Intrarea STAFETEI 2A Bucuresti",
+        "lat": 44.4381282,
+        "lng": 26.034666,
+        "yearOfConstruction": "1920",
+        "numberOfApartments": "8",
+        "yearOfExpertise": "1993",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Soseaua STEFAN CEL MARE 5 Bucuresti",
+        "lat": 44.4533361,
+        "lng": 26.1017797,
+        "yearOfConstruction": "1962",
+        "numberOfApartments": "134",
+        "yearOfExpertise": "1997",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Soseaua STEFAN CEL MARE 18 Bucuresti",
+        "lat": 44.4527126,
+        "lng": 26.1042466,
+        "yearOfConstruction": "1957",
+        "numberOfApartments": "21",
+        "yearOfExpertise": "2001",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Soseaua STEFAN CEL MARE 20 Bucuresti",
+        "lat": 44.4527266,
+        "lng": 26.104504,
+        "yearOfConstruction": "1936",
+        "numberOfApartments": "6",
+        "yearOfExpertise": "2010",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Soseaua STEFAN CEL MARE 27 Bucuresti",
+        "lat": 44.452741,
+        "lng": 26.1174108,
+        "yearOfConstruction": "1960",
+        "numberOfApartments": "49",
+        "yearOfExpertise": "2000",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Soseaua STEFAN CEL MARE 42 Bucuresti",
+        "lat": 44.4526577,
+        "lng": 26.1122414,
+        "yearOfConstruction": "1960",
+        "numberOfApartments": "24",
+        "yearOfExpertise": "2001",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada STEFAN MIHAILEANU 11A (corp A) Bucuresti",
+        "lat": 44.434711,
+        "lng": 26.1174427,
+        "yearOfConstruction": "1939-1940",
+        "numberOfApartments": "4",
+        "yearOfExpertise": "2008",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada STEFAN PROTOPOPESCU 1 (bloc C6) Bucuresti",
+        "lat": 44.4632263,
+        "lng": 26.0959893,
+        "yearOfConstruction": "1962",
+        "numberOfApartments": "0",
+        "yearOfExpertise": "2008",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada STELEA SPATARU 12 Bucuresti",
+        "lat": 44.4314121,
+        "lng": 26.1074369,
+        "yearOfConstruction": "1906-1910",
+        "numberOfApartments": "0",
+        "yearOfExpertise": "2016",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada STIRBEI VODA 23 Bucuresti",
+        "lat": 44.4399179,
+        "lng": 26.0918006,
+        "yearOfConstruction": "1941",
+        "numberOfApartments": "25",
+        "yearOfExpertise": "1999",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada STIRBEI VODA 122 (corp A+B) Bucuresti",
+        "lat": 44.4401731,
+        "lng": 26.0836606,
+        "yearOfConstruction": "1920",
+        "numberOfApartments": "4",
+        "yearOfExpertise": "1993",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada STIRBEI VODA 129 Bucuresti",
+        "lat": 44.4377453,
+        "lng": 26.078542,
+        "yearOfConstruction": "1929",
+        "numberOfApartments": "8",
+        "yearOfExpertise": "1996",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada STRADUINTEI 6 (bloc R5) Bucuresti",
+        "lat": 44.38340350000001,
+        "lng": 26.120315,
+        "yearOfConstruction": "1964",
+        "numberOfApartments": "82",
+        "yearOfExpertise": "2000",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Drumul TABEREI 20 (bloc C2) Bucuresti",
+        "lat": 44.4254108,
+        "lng": 26.0494541,
+        "yearOfConstruction": "1962",
+        "numberOfApartments": "216",
+        "yearOfExpertise": "2001",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada TACHE GHEORGHE 13 (bloc 17; tr.I-VIII) Bucuresti",
+        "lat": 44.4267674,
+        "lng": 26.1025384,
+        "yearOfConstruction": "1965",
+        "numberOfApartments": "320",
+        "yearOfExpertise": "1996",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada TACHE IONESCU 8 Bucuresti",
+        "lat": 44.4443514,
+        "lng": 26.0974426,
+        "yearOfConstruction": "1938",
+        "numberOfApartments": "51",
+        "yearOfExpertise": "1998",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada TARGU NEAMT 2 (bloc R7) Bucuresti",
+        "lat": 44.42166150000001,
+        "lng": 26.0285285,
+        "yearOfConstruction": "1971",
+        "numberOfApartments": "88",
+        "yearOfExpertise": "2000",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada TELEAJEN 42 Bucuresti",
+        "lat": 44.4357243,
+        "lng": 26.1289876,
+        "yearOfConstruction": "1967",
+        "numberOfApartments": "0",
+        "yearOfExpertise": "1993",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada TELEAJEN 72 (corp A+B) Bucuresti",
+        "lat": 44.4343104,
+        "lng": 26.1306326,
+        "yearOfConstruction": "1924; 1935",
+        "numberOfApartments": "6",
+        "yearOfExpertise": "1993",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada TEODOSIE RUDEANU 70 Bucuresti",
+        "lat": 44.4549866,
+        "lng": 26.0697468,
+        "yearOfConstruction": "1914",
+        "numberOfApartments": "1",
+        "yearOfExpertise": "1997",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada TOAMNEI 8 Bucuresti",
+        "lat": 44.44153439999999,
+        "lng": 26.1119988,
+        "yearOfConstruction": "1942",
+        "numberOfApartments": "27",
+        "yearOfExpertise": "2007",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada TOAMNEI 125 Bucuresti",
+        "lat": 44.4486059,
+        "lng": 26.116175,
+        "yearOfConstruction": "1921",
+        "numberOfApartments": "5",
+        "yearOfExpertise": "1993",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada TOAMNEI 56-58 Bucuresti",
+        "lat": 44.4439014,
+        "lng": 26.1138374,
+        "yearOfConstruction": "1922",
+        "numberOfApartments": "4",
+        "yearOfExpertise": "1993",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada TREI SCAUNE 15 Bucuresti",
+        "lat": 44.4599203,
+        "lng": 26.1330557,
+        "yearOfConstruction": "1937",
+        "numberOfApartments": "1",
+        "yearOfExpertise": "1997",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada TUDOR ARGHEZI 23 Bucuresti",
+        "lat": 44.4405639,
+        "lng": 26.1024534,
+        "yearOfConstruction": "1890",
+        "numberOfApartments": "0",
+        "yearOfExpertise": "1995",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada TUDOR ARGHEZI 32 Bucuresti",
+        "lat": 44.439106,
+        "lng": 26.103653,
+        "yearOfConstruction": "1936",
+        "numberOfApartments": "48",
+        "yearOfExpertise": "1999",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada VALERIU BRANISTE 23 Bucuresti",
+        "lat": 44.4298505,
+        "lng": 26.1223928,
+        "yearOfConstruction": "1928",
+        "numberOfApartments": "10",
+        "yearOfExpertise": "1997",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada VALERIU BRANISTE 60A Bucuresti",
+        "lat": 44.4302283,
+        "lng": 26.1250168,
+        "yearOfConstruction": "1938",
+        "numberOfApartments": "8",
+        "yearOfExpertise": "1997",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada VASILE ALECSANDRI 5 Bucuresti",
+        "lat": 44.4504028,
+        "lng": 26.0941824,
+        "yearOfConstruction": "1930",
+        "numberOfApartments": null,
+        "yearOfExpertise": "2018",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada VASILE CONTA 14 Bucuresti",
+        "lat": 44.4400614,
+        "lng": 26.1013669,
+        "yearOfConstruction": "1920",
+        "numberOfApartments": "7",
+        "yearOfExpertise": "1993",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada VASILE CONTA 3-5 (corp A+B+C) Bucuresti",
+        "lat": 44.4390186,
+        "lng": 26.1009203,
+        "yearOfConstruction": "1940",
+        "numberOfApartments": "99",
+        "yearOfExpertise": "1997",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada VASILE CONTA 7-9 (corp D+E+F) Bucuresti",
+        "lat": 44.4267674,
+        "lng": 26.1025384,
+        "yearOfConstruction": "1941",
+        "numberOfApartments": "99",
+        "yearOfExpertise": "1997",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada VASILE LASCAR 8 Bucuresti",
+        "lat": 44.4369285,
+        "lng": 26.1072924,
+        "yearOfConstruction": "1935",
+        "numberOfApartments": "0",
+        "yearOfExpertise": "2009",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada VASILE LASCAR 10 Bucuresti",
+        "lat": 44.4370886,
+        "lng": 26.1074055,
+        "yearOfConstruction": "1925",
+        "numberOfApartments": "10",
+        "yearOfExpertise": "1993",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada VASILE LASCAR 23-25 Bucuresti",
+        "lat": 44.4390401,
+        "lng": 26.107777,
+        "yearOfConstruction": "1938",
+        "numberOfApartments": "64",
+        "yearOfExpertise": "1997",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada VASILE LASCAR 46 Bucuresti",
+        "lat": 44.440538,
+        "lng": 26.108824,
+        "yearOfConstruction": "1947",
+        "numberOfApartments": "14",
+        "yearOfExpertise": "2002",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada VASILE LASCAR 100 Bucuresti",
+        "lat": 44.443985,
+        "lng": 26.111178,
+        "yearOfConstruction": "1938",
+        "numberOfApartments": "22",
+        "yearOfExpertise": "2017",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada VASILE LASCAR 111 Bucuresti",
+        "lat": 44.4457594,
+        "lng": 26.1110217,
+        "yearOfConstruction": "1936",
+        "numberOfApartments": "17",
+        "yearOfExpertise": "1993",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada VASILE LUCACIU 4 (corp B+C) Bucuresti",
+        "lat": 44.4308647,
+        "lng": 26.1145912,
+        "yearOfConstruction": "1900",
+        "numberOfApartments": "3",
+        "yearOfExpertise": "1993",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada VASILE LUCACIU 101 Bucuresti",
+        "lat": 44.4318486,
+        "lng": 26.122661,
+        "yearOfConstruction": "1940",
+        "numberOfApartments": "13",
+        "yearOfExpertise": "1994",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada VICTOR BABES 7 Bucuresti",
+        "lat": 44.42974040000001,
+        "lng": 26.0716242,
+        "yearOfConstruction": "1940",
+        "numberOfApartments": "7",
+        "yearOfExpertise": "1997",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Calea VICTORIEI 1-5 (corp A+B+C+D) Bucuresti",
+        "lat": 44.4267674,
+        "lng": 26.1025384,
+        "yearOfConstruction": "1961",
+        "numberOfApartments": "148",
+        "yearOfExpertise": "2011",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Calea VICTORIEI 2-4 Bucuresti",
+        "lat": 44.4304243,
+        "lng": 26.0970511,
+        "yearOfConstruction": "1928",
+        "numberOfApartments": "72",
+        "yearOfExpertise": "2017",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Calea VICTORIEI 22-24 Bucuresti",
+        "lat": 44.4335525,
+        "lng": 26.0981946,
+        "yearOfConstruction": "1939",
+        "numberOfApartments": "0",
+        "yearOfExpertise": "2012",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Calea VICTORIEI 25 Bucuresti",
+        "lat": 44.4341904,
+        "lng": 26.0980208,
+        "yearOfConstruction": "1936",
+        "numberOfApartments": "49",
+        "yearOfExpertise": "2012",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Calea VICTORIEI 103-105 (corp A+B) Bucuresti",
+        "lat": 44.443578,
+        "lng": 26.092231,
+        "yearOfConstruction": "1959",
+        "numberOfApartments": "81",
+        "yearOfExpertise": "1994",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Calea VICTORIEI 128B Bucuresti",
+        "lat": 44.4438225,
+        "lng": 26.09264,
+        "yearOfConstruction": "1935",
+        "numberOfApartments": "22",
+        "yearOfExpertise": "2000",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Calea VICTORIEI 136 Bucuresti",
+        "lat": 44.444267,
+        "lng": 26.0926009,
+        "yearOfConstruction": "1958",
+        "numberOfApartments": "54",
+        "yearOfExpertise": "2000",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Calea VICTORIEI 143 Bucuresti",
+        "lat": 44.44910480000001,
+        "lng": 26.08838,
+        "yearOfConstruction": "1921",
+        "numberOfApartments": "82",
+        "yearOfExpertise": "1995",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Calea VICTORIEI 214 Bucuresti",
+        "lat": 44.4498513,
+        "lng": 26.088214,
+        "yearOfConstruction": "1941",
+        "numberOfApartments": "69",
+        "yearOfExpertise": "2016",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Soseaua VIILOR 95 (bloc 102) Bucuresti",
+        "lat": 44.4078154,
+        "lng": 26.0926593,
+        "yearOfConstruction": "1962",
+        "numberOfApartments": "192",
+        "yearOfExpertise": "2001",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada VIISOAREI 2 Bucuresti",
+        "lat": 44.44923199999999,
+        "lng": 26.093122,
+        "yearOfConstruction": "1932",
+        "numberOfApartments": "12",
+        "yearOfExpertise": "1997",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada VIITORULUI 107 Bucuresti",
+        "lat": 44.4479582,
+        "lng": 26.1147376,
+        "yearOfConstruction": "1935",
+        "numberOfApartments": "6",
+        "yearOfExpertise": "1997",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada VISARION 3 Bucuresti",
+        "lat": 44.4470949,
+        "lng": 26.0945673,
+        "yearOfConstruction": "1928",
+        "numberOfApartments": "9",
+        "yearOfExpertise": "1997",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada VULTURILOR 48 Bucuresti",
+        "lat": 44.4286602,
+        "lng": 26.1206344,
+        "yearOfConstruction": "1939",
+        "numberOfApartments": "8",
+        "yearOfExpertise": "1997",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada WASHINGTON 2 Bucuresti",
+        "lat": 44.455368,
+        "lng": 26.089949,
+        "yearOfConstruction": "1945",
+        "numberOfApartments": "13",
+        "yearOfExpertise": "1996",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada WASHINGTON 4 Bucuresti",
+        "lat": 44.45499760000001,
+        "lng": 26.0897259,
+        "yearOfConstruction": "1945",
+        "numberOfApartments": "5",
+        "yearOfExpertise": "1995",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada ALEXANDRU MACEDONSKI 10 Bucuresti",
+        "lat": 44.4477077,
+        "lng": 26.0984275,
+        "yearOfConstruction": "1936",
+        "numberOfApartments": "0",
+        "yearOfExpertise": "2021",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada BATISTE 9 Bucuresti",
+        "lat": 44.4379482,
+        "lng": 26.1023312,
+        "yearOfConstruction": "1960",
+        "numberOfApartments": "42",
+        "yearOfExpertise": "2019",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Bulevardul DACIA 32 (fost 2) Bucuresti",
+        "lat": 44.446392,
+        "lng": 26.099909,
+        "yearOfConstruction": "1912",
+        "numberOfApartments": "0",
+        "yearOfExpertise": "2023",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Bulevardul Vasile Milea 13; bl. C; sc. A-E Bucuresti",
+        "lat": 44.4267674,
+        "lng": 26.1025384,
+        "yearOfConstruction": "1950-1960",
+        "numberOfApartments": "64",
+        "yearOfExpertise": "2021",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Bulevardul PACHE PROTOPOPESCU 21 Bucuresti",
+        "lat": 44.43907650000001,
+        "lng": 26.1208189,
+        "yearOfConstruction": "1925",
+        "numberOfApartments": "0",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada POPA NAN 11 Bucuresti",
+        "lat": 44.4381976,
+        "lng": 26.1234143,
+        "yearOfConstruction": "1935",
+        "numberOfApartments": "0",
+        "yearOfExpertise": "2019",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Bulevardul PRIMAVERII (INSTITUTUL DIPLOMATIC ROMAN)  17 Bucuresti",
+        "lat": 44.4684235,
+        "lng": 26.0900638,
+        "yearOfConstruction": "1950",
+        "numberOfApartments": "0",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Aleea BARAJUL BISTRITEI nr.8; bl.Y8 8 Bucuresti",
+        "lat": 44.4275844,
+        "lng": 26.1766155,
+        "yearOfConstruction": "1968",
+        "numberOfApartments": "44",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Aleea BARAJUL CUCUTENI nr.l; bl.A12 1 Bucuresti",
+        "lat": 44.4286583,
+        "lng": 26.1647573,
+        "yearOfConstruction": "1968",
+        "numberOfApartments": "44",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Aleea BARAJUL DUNARII nr.6; bl.M37 6 Bucuresti",
+        "lat": 44.4267791,
+        "lng": 26.1714323,
+        "yearOfConstruction": "1966",
+        "numberOfApartments": "44",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Aleea BARAJUL DUNARII nr.8; bl.21 A 8 Bucuresti",
+        "lat": 44.4270621,
+        "lng": 26.1708801,
+        "yearOfConstruction": "1978",
+        "numberOfApartments": "84",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Aleea BARAJUL ROVINARI nr.12; bl.Y12 12 Bucuresti",
+        "lat": 44.4281018,
+        "lng": 26.1741965,
+        "yearOfConstruction": "1967",
+        "numberOfApartments": "60",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Aleea BARAJUL ROVINARI nr.3; bl.Y13 3 Bucuresti",
+        "lat": 44.4281709,
+        "lng": 26.1732886,
+        "yearOfConstruction": "1967",
+        "numberOfApartments": "100",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Aleea BUDACU nr.3; bl.M5 3 Bucuresti",
+        "lat": 44.4342619,
+        "lng": 26.162377,
+        "yearOfConstruction": "1964",
+        "numberOfApartments": "100",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Aleea BUDACU nr.3A; bl.M6 3A Bucuresti",
+        "lat": 44.43457189999999,
+        "lng": 26.1638446,
+        "yearOfConstruction": "1964",
+        "numberOfApartments": "60",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Aleea BUDACU nr.5; bl.M3 5 Bucuresti",
+        "lat": 44.4347734,
+        "lng": 26.1646663,
+        "yearOfConstruction": "1964",
+        "numberOfApartments": "120",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Aleea FOISORULUI nr.3; bl.4; sc. 1+2+3  3 Bucuresti",
+        "lat": 44.4174128,
+        "lng": 26.1235919,
+        "yearOfConstruction": "1969-1970",
+        "numberOfApartments": "60",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Aleea FOISORULUI nr.4; bl.2 4 Bucuresti",
+        "lat": 44.4172817,
+        "lng": 26.1237962,
+        "yearOfConstruction": "1964",
+        "numberOfApartments": "50",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Aleea FOISORULUI nr.l; bl.3; sc.1+2  1 Bucuresti",
+        "lat": 44.4174128,
+        "lng": 26.1235919,
+        "yearOfConstruction": "1968",
+        "numberOfApartments": "40",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Aleea FUIORULUI nr. 1; bl.H25 1 Bucuresti",
+        "lat": 44.4149264,
+        "lng": 26.1570116,
+        "yearOfConstruction": "1969",
+        "numberOfApartments": "60",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Aleea GRUIUL ARGESULUI nr.lA; bl.MC5 1A Bucuresti",
+        "lat": 44.4277264,
+        "lng": 26.1502223,
+        "yearOfConstruction": "1975",
+        "numberOfApartments": "44",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Aleea ILIOARA nr. 16; bl.M32; sc.A 16 Bucuresti",
+        "lat": 44.4267674,
+        "lng": 26.1025384,
+        "yearOfConstruction": "1976",
+        "numberOfApartments": "43",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Aleea ILIOARA nr.2bis; bl.PM30; sc.1-3 2bis Bucuresti",
+        "lat": 44.4124835,
+        "lng": 26.1606503,
+        "yearOfConstruction": "1974",
+        "numberOfApartments": "108",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Aleea ROTUNDA nr.3; bl.Y4A 3 Bucuresti",
+        "lat": 44.4204572,
+        "lng": 26.1614382,
+        "yearOfConstruction": "1976",
+        "numberOfApartments": "44",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Aleea SCOLARILOR nr.12; bl.S25 12 Bucuresti",
+        "lat": 44.4188994,
+        "lng": 26.1388142,
+        "yearOfConstruction": "1980",
+        "numberOfApartments": "54",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Aleea SCOLARILOR nr.4; bl.S3A 4 Bucuresti",
+        "lat": 44.4186631,
+        "lng": 26.1367584,
+        "yearOfConstruction": "1981",
+        "numberOfApartments": "54",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Aleea SIBIANA nr.l; bl.R17 1 Bucuresti",
+        "lat": 44.4302985,
+        "lng": 26.1625935,
+        "yearOfConstruction": "1962",
+        "numberOfApartments": "40",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Aleea SOLIDARITATIInr.5; bl.M 19 5 Bucuresti",
+        "lat": 44.4261652,
+        "lng": 26.1742442,
+        "yearOfConstruction": "1965",
+        "numberOfApartments": "40",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Aleea SOLIDARITATIInr.7; bl.M20 7 Bucuresti",
+        "lat": 44.4263193,
+        "lng": 26.1747921,
+        "yearOfConstruction": "1964",
+        "numberOfApartments": "40",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Aleea VASILE GOLDIS nr.4; bl.M42 4 Bucuresti",
+        "lat": 44.4284432,
+        "lng": 26.1716032,
+        "yearOfConstruction": "1964",
+        "numberOfApartments": "44",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Bulevardul CAMIL RESSU nr.11; bl.58A 11 Bucuresti",
+        "lat": 44.4194012,
+        "lng": 26.1415934,
+        "yearOfConstruction": "1974",
+        "numberOfApartments": "65",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Bulevardul CAMIL RESSU nr.21; bl.56A 21 Bucuresti",
+        "lat": 44.41886179999999,
+        "lng": 26.1438702,
+        "yearOfConstruction": "1969",
+        "numberOfApartments": "44",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Bulevardul CAMIL RESSU nr.24; bl.A7bis 24 Bucuresti",
+        "lat": 44.4170895,
+        "lng": 26.1462694,
+        "yearOfConstruction": "1975",
+        "numberOfApartments": "47",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Bulevardul CAMIL RESSU nr.42; bl.A12 42 Bucuresti",
+        "lat": 44.4157318,
+        "lng": 26.1498458,
+        "yearOfConstruction": "1967",
+        "numberOfApartments": "44",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Bulevardul I. C. BRATIANU nr.44; sc. A; B; C 44 Bucuresti",
+        "lat": 44.4267674,
+        "lng": 26.1025384,
+        "yearOfConstruction": "1958",
+        "numberOfApartments": "226",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Bulevardul NICOLAE GRIGORESCU nr.15; bl.L6 15 Bucuresti",
+        "lat": 44.4316761,
+        "lng": 26.1617613,
+        "yearOfConstruction": "1959",
+        "numberOfApartments": "16",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Bulevardul NICOLAE GRIGORESCU nr.5A; bl.M5bis 5A Bucuresti",
+        "lat": 44.433875,
+        "lng": 26.163013,
+        "yearOfConstruction": "1972",
+        "numberOfApartments": "44",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Bulevardul RAMNICU SARAT nr.25; bl.11A 25 Bucuresti",
+        "lat": 44.4116449,
+        "lng": 26.1408046,
+        "yearOfConstruction": "1975",
+        "numberOfApartments": "162",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Bulevardul Theodor Pallady nr.8; bl.M3C;   8 Bucuresti",
+        "lat": 44.4113395,
+        "lng": 26.1689091,
+        "yearOfConstruction": "1975",
+        "numberOfApartments": "44",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Calea Calarasi nr. 117-119 117-119 Bucuresti",
+        "lat": 44.4333487,
+        "lng": 26.1191187,
+        "yearOfConstruction": "1957",
+        "numberOfApartments": "40",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Calea CALARASILOR nr. 319 Bl.A 319 Bucuresti",
+        "lat": 44.4319114,
+        "lng": 26.1365428,
+        "yearOfConstruction": "1938",
+        "numberOfApartments": "62",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Calea CALARASILOR nr.319; bl.319B 319 Bucuresti",
+        "lat": 44.4319114,
+        "lng": 26.1365428,
+        "yearOfConstruction": "1939",
+        "numberOfApartments": "9",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Intrarea BADENI nr.2A; bl.Y7bis 2A Bucuresti",
+        "lat": 44.4315491,
+        "lng": 26.166119,
+        "yearOfConstruction": "1972",
+        "numberOfApartments": "117",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Intrarea BARSEI nr.lA; bl.M9bis 1A Bucuresti",
+        "lat": 44.4323383,
+        "lng": 26.1671867,
+        "yearOfConstruction": "1972",
+        "numberOfApartments": "117",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Intrarea INTRECERII nr.2; bl.G2 2 Bucuresti",
+        "lat": 44.4257009,
+        "lng": 26.1429013,
+        "yearOfConstruction": "1956",
+        "numberOfApartments": "18",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Intrarea ODOBESTI nr.12; bl.V7A 12 Bucuresti",
+        "lat": 44.4184794,
+        "lng": 26.1519361,
+        "yearOfConstruction": "1977",
+        "numberOfApartments": "43",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Soseaua MIHAI BRAVU nr.293; bl. 12; sc.A+B 293 Bucuresti",
+        "lat": 44.4227444,
+        "lng": 26.1374932,
+        "yearOfConstruction": "1977",
+        "numberOfApartments": "88",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Soseaua MIHAI BRAVU nr.296; bl.7 296 Bucuresti",
+        "lat": 44.4262617,
+        "lng": 26.1370747,
+        "yearOfConstruction": "1973",
+        "numberOfApartments": "120",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Soseaua MIHAI BRAVU nr.301; bl. 18 301 Bucuresti",
+        "lat": 44.421399,
+        "lng": 26.137307,
+        "yearOfConstruction": "1978",
+        "numberOfApartments": "83",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada BABA NOVAC nr.5; bl.Ml; sc.1-4 5 Bucuresti",
+        "lat": 44.4251338,
+        "lng": 26.1424049,
+        "yearOfConstruction": "1957",
+        "numberOfApartments": "45",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada CALOTESTI nr. 1 1 Bucuresti",
+        "lat": 44.4342608,
+        "lng": 26.1104973,
+        "yearOfConstruction": "1937",
+        "numberOfApartments": "6",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada CALOTESTI nr.4 4 Bucuresti",
+        "lat": 44.4337264,
+        "lng": 26.1105587,
+        "yearOfConstruction": "1939",
+        "numberOfApartments": "5",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada CAMPIA LIBERTATII nr.29; bl.B6 29 Bucuresti",
+        "lat": 44.4299028,
+        "lng": 26.1479065,
+        "yearOfConstruction": "1961",
+        "numberOfApartments": "158",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada CAMPIA LIBERTATII nr.40; bl.B1 40 Bucuresti",
+        "lat": 44.429365,
+        "lng": 26.1450989,
+        "yearOfConstruction": "1963",
+        "numberOfApartments": "80",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada CEZAR BOLLIAC nr.72 72 Bucuresti",
+        "lat": 44.4268011,
+        "lng": 26.1278522,
+        "yearOfConstruction": "1943",
+        "numberOfApartments": "9",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada CODRII NEAMTULUI nr.9; bl.3 9 Bucuresti",
+        "lat": 44.4201608,
+        "lng": 26.1729108,
+        "yearOfConstruction": "1977",
+        "numberOfApartments": "88",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada CONSTANTIN BRANCUSI nr.4; bl.A12bis 4 Bucuresti",
+        "lat": 44.42905469999999,
+        "lng": 26.164323,
+        "yearOfConstruction": "1969",
+        "numberOfApartments": "44",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada COZLA nr.2A; bl.F3 2A Bucuresti",
+        "lat": 44.4238848,
+        "lng": 26.1700507,
+        "yearOfConstruction": "1973",
+        "numberOfApartments": "44",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada COZLA nr.3; bl.BlA; sc.1+2+3+4+5+6 3 Bucuresti",
+        "lat": 44.4233223,
+        "lng": 26.1697781,
+        "yearOfConstruction": "1968",
+        "numberOfApartments": "264",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada FIRIDEI nr.3; bl.H19; sc.1;2+3;4; 5 3 Bucuresti",
+        "lat": 44.41544100000001,
+        "lng": 26.159923,
+        "yearOfConstruction": "1968",
+        "numberOfApartments": "100",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada FOISORULUI nr.150 150 Bucuresti",
+        "lat": 44.4123544,
+        "lng": 26.1217647,
+        "yearOfConstruction": "1958",
+        "numberOfApartments": "26",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada GHEORGHE PETRASCU nr.2; bl. O3; sc.A+B 2 Bucuresti",
+        "lat": 44.4267674,
+        "lng": 26.1025384,
+        "yearOfConstruction": "1961",
+        "numberOfApartments": "31",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada GHEORGHE PETRASCU nr.4; bl. O4; sc.A+B 4 Bucuresti",
+        "lat": 44.4267674,
+        "lng": 26.1025384,
+        "yearOfConstruction": "1960",
+        "numberOfApartments": "31",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada GHEORGHE PETRASCU nr.6; bl.O5; sc.A+B 6 Bucuresti",
+        "lat": 44.4267674,
+        "lng": 26.1025384,
+        "yearOfConstruction": "1960",
+        "numberOfApartments": "31",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada GHEORGHE PETRASCU nr.8; bl.O6; sc.A+B 8 Bucuresti",
+        "lat": 44.4267674,
+        "lng": 26.1025384,
+        "yearOfConstruction": "1960",
+        "numberOfApartments": "31",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada GHEORGHE PETRASCU nr.l6; bl.Bl0 16 Bucuresti",
+        "lat": 44.4298104,
+        "lng": 26.1456974,
+        "yearOfConstruction": "1962",
+        "numberOfApartments": "140",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada ILIOARA 54; bl. B 54 Bucuresti",
+        "lat": 44.407068,
+        "lng": 26.1625991,
+        "yearOfConstruction": "1969",
+        "numberOfApartments": "30",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada ION TUCULESCU nr. 19; bl.37C; sc. 1 19 Bucuresti",
+        "lat": 44.4232246,
+        "lng": 26.1442588,
+        "yearOfConstruction": "1971",
+        "numberOfApartments": "87",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada ION TUCULESCU nr.37; bl.O7; sc.A+B 37 Bucuresti",
+        "lat": 44.4267674,
+        "lng": 26.1025384,
+        "yearOfConstruction": "1960",
+        "numberOfApartments": "31",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada ION TUCULESCU nr.42; bl.P3; sc.A+B+C 42 Bucuresti",
+        "lat": 44.4267674,
+        "lng": 26.1025384,
+        "yearOfConstruction": "1960",
+        "numberOfApartments": "48",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada ISTRIEI nr.5; bl.H16 5 Bucuresti",
+        "lat": 44.41556749999999,
+        "lng": 26.1452976,
+        "yearOfConstruction": "1968",
+        "numberOfApartments": "20",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada LABORATOR nr.124; bl.40 124 Bucuresti",
+        "lat": 44.41756669999999,
+        "lng": 26.137143,
+        "yearOfConstruction": "1982",
+        "numberOfApartments": "131",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada LIVIU REBREANU nr.2; bl.N6 2 Bucuresti",
+        "lat": 44.4188029,
+        "lng": 26.1481091,
+        "yearOfConstruction": "1966",
+        "numberOfApartments": "297",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada LUCRETIU PATRASCANU nr.4; bl.TI 4 Bucuresti",
+        "lat": 44.4304694,
+        "lng": 26.1681747,
+        "yearOfConstruction": "1968",
+        "numberOfApartments": "176",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada MANTULEASA nr.12; bl.MANTULEASA 12 12 Bucuresti",
+        "lat": 44.43408669999999,
+        "lng": 26.1124616,
+        "yearOfConstruction": "1936",
+        "numberOfApartments": "17",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada NICOLAE LICARET nr.8; bl.PM42 8 Bucuresti",
+        "lat": 44.4285857,
+        "lng": 26.1452417,
+        "yearOfConstruction": "1979",
+        "numberOfApartments": "108",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada ODOBESTI nr.4; bl .V10 4 Bucuresti",
+        "lat": 44.4164542,
+        "lng": 26.1535087,
+        "yearOfConstruction": "1966",
+        "numberOfApartments": "44",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada Plt.  PETRE IONESCU; nr.7; bl.X20 7 Bucuresti",
+        "lat": 44.4143143,
+        "lng": 26.1699828,
+        "yearOfConstruction": "1969",
+        "numberOfApartments": "44",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada RODUL PAMANTULUI nr.2; bl.Pl; sc.A+B+C 2 Bucuresti",
+        "lat": 44.4280361,
+        "lng": 26.1415636,
+        "yearOfConstruction": "1960",
+        "numberOfApartments": "48",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada RODUL PAMANTULUI nr.4; bl.P2; sc.A+B+C 4 Bucuresti",
+        "lat": 44.4267674,
+        "lng": 26.1025384,
+        "yearOfConstruction": "1960",
+        "numberOfApartments": "48",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada STEFAN NICOLAU nr. 1 -3; bl.O2; sc.A+B 44929 Bucuresti",
+        "lat": 44.4267674,
+        "lng": 26.1025384,
+        "yearOfConstruction": "1960",
+        "numberOfApartments": "31",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada STEFAN NICOLAU nr. 13 Bl. LI 13 Bucuresti",
+        "lat": 44.4253299,
+        "lng": 26.14183,
+        "yearOfConstruction": "1958",
+        "numberOfApartments": "35",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada STEFAN NICOLAU nr.5; bl.Ol 5 Bucuresti",
+        "lat": 44.4277115,
+        "lng": 26.1411401,
+        "yearOfConstruction": "1960",
+        "numberOfApartments": "31",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada STEFAN NICOLAU nr.7; bl.G11 7 Bucuresti",
+        "lat": 44.4269086,
+        "lng": 26.1413486,
+        "yearOfConstruction": "1958",
+        "numberOfApartments": "18",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada STELIAN MIHALE nr.l A; bl.Gl 1 Bucuresti",
+        "lat": 44.4140905,
+        "lng": 26.1684237,
+        "yearOfConstruction": "1975",
+        "numberOfApartments": "132",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada TUDOR ION nr.2; bl.7 Titan 2 Bucuresti",
+        "lat": 44.4184791,
+        "lng": 26.17149,
+        "yearOfConstruction": "1969",
+        "numberOfApartments": "109",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada VASIOLE LUCACIU; nr.27 27 Bucuresti",
+        "lat": 44.4314928,
+        "lng": 26.1155802,
+        "yearOfConstruction": "1935",
+        "numberOfApartments": "9",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada Voronet; nr.22; bl.3 22 Bucuresti",
+        "lat": 44.4289728,
+        "lng": 26.1358046,
+        "yearOfConstruction": "1970",
+        "numberOfApartments": "36",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada ZBORULUI nr.l 1 Bucuresti",
+        "lat": 44.4332996,
+        "lng": 26.1104941,
+        "yearOfConstruction": "1930",
+        "numberOfApartments": "8",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada ZEMES nr.3; bl.M29A; sc. A;B;C 3 Bucuresti",
+        "lat": 44.4267674,
+        "lng": 26.1025384,
+        "yearOfConstruction": "1975",
+        "numberOfApartments": "162",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada Drumul Taberei (Bloc Cscarile A B C D E) 2 Bucuresti",
+        "lat": 44.4213403,
+        "lng": 26.0344852,
+        "yearOfConstruction": "1950-1960",
+        "numberOfApartments": "64",
+        "yearOfExpertise": "2021",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Calea VICTORIEI 87-89  (corp C+D) Bucuresti",
+        "lat": 44.4427019,
+        "lng": 26.0934009,
+        "yearOfConstruction": "1890-1900",
+        "numberOfApartments": "3;5",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Piata Romana  1 Bucuresti",
+        "lat": 44.4467528,
+        "lng": 26.0967458,
+        "yearOfConstruction": "1097",
+        "numberOfApartments": "3",
+        "yearOfExpertise": "2023",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada Londra 20 Bucuresti",
+        "lat": 44.455256,
+        "lng": 26.093464,
+        "yearOfConstruction": "1926 -1929",
+        "numberOfApartments": "34",
+        "yearOfExpertise": "2023",
+        "seismicRisk": "2"
+    },
+    {
+        "address": "Strada TEPES VODA 44 Bucuresti",
+        "lat": 44.434316,
+        "lng": 26.1238679,
+        "yearOfConstruction": " &lt; 1963",
+        "numberOfApartments": "2",
+        "yearOfExpertise": "2022",
+        "seismicRisk": "2"
+    }
+]
