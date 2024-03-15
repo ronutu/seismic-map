@@ -1,2 +1,2 @@
 # seismic-map
-Seismic map for B
+Seismic map of Bucharest website
