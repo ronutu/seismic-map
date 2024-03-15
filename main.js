@@ -128,7 +128,6 @@ function loadScript(callback) {
         .then(response => response.json())
         .then(data => {
             const API_KEY = data.key;
-            console.log(data.key);
             var script = document.createElement('script');
             script.type = 'text/javascript';
             script.src = `https://maps.googleapis.com/maps/api/js?key=${API_KEY}&loading=async&callback=` + callback;
