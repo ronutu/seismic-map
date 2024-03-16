@@ -13,3 +13,6 @@ d) **Rs IV class (R4)**: Constructions expected to have a seismic response simil
 Source: https://evz.ro/ce-inseamna-risc-seismic.html
 
 This project shows the buildings with R1 and R2 seismic risk. The website uses the Google Maps API and you can also use the Google Street View option to show exactly how a building with high seismic risk looks like.
+
+The data is taken from AMCCRS (Administratia municipala pentru consolidarea cladirilor cu risc seismic):
+https://amccrs-pmb.ro/lista-imobile-2/
