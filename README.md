@@ -1,6 +1,5 @@
 # Seismic map of Bucharest website
-**How to use**:\
-Run the backend script in terminal (node index.js)
+**Winner of the HackTheNews 2023 Hackathon, held by Softbinator, for the most technical solution.**:\
 
 **Description**:\
 The goal of this project is to showcase the buildings of Bucharest with a high seismic risk. First of all let's \
