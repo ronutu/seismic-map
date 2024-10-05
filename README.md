@@ -16,13 +16,15 @@ This project shows the buildings with R1 and R2 seismic risk. The website uses t
 The data is taken from AMCCRS (Administratia municipala pentru consolidarea cladirilor cu risc seismic):
 https://amccrs-pmb.ro/lista-imobile-2/
 
-# How to run
-Create a new .env file and write your API key there:
+# Quick Start
+Create a new `.env` file in and add your Google Maps API key like this:
 ```
 MAPS_API_KEY=YOUR_API_KEY
 ```
 
-Then run:
+Start the application:
 ```
 node index.js
 ```
+
+Open your browser and navigate to `http://localhost:3000` (or the designated port) to see the app in action.
