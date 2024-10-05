@@ -27,4 +27,4 @@ Start the server:
 node index.js
 ```
 
-Open your browser and navigate to `http://localhost:3000` (or the designated port) to see the app in action.
+Open your browser and navigate to `http://localhost:3000` to see the app in action.
