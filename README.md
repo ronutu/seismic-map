@@ -1,4 +1,4 @@
-# Seismic map of Bucharest
+# Seismic risk map of Bucharest
 **Winner of the HackTheNews 2023 Hackathon, held by Softbinator, for the most technical solution.**
 
 **Description**:\
