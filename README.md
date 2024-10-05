@@ -22,7 +22,7 @@ Create a new `.env` file in and add your Google Maps API key like this:
 MAPS_API_KEY=YOUR_API_KEY
 ```
 
-Start the application:
+Start the server:
 ```
 node index.js
 ```
